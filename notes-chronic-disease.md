@@ -1,8 +1,8 @@
 # 慢性疾患管理 知識ノート
 
-最終更新: 2026-07-10
+最終更新: 2026-07-11
 
-対象:高齢犬・高齢猫に多い慢性疾患(慢性腎臓病・心臓病・変形性関節症・疼痛管理)。
+対象:高齢犬・高齢猫に多い慢性疾患(慢性腎臓病・心臓病・変形性関節症・疼痛管理・がん)、および老齢医学全般(フレイル・多疾患併存・健康的加齢)。
 本ノートは飼い主向け記事の材料であり、一般的な情報提供にとどめる。個体を特定した診断・治療・処方の代わりにはならず、断定的な治療推奨はしない(獣医師法18条の趣旨に沿う)。「一般的にはこう言われている」調で整理。
 
 ---
@@ -23,7 +23,7 @@
 - **2023年ガイドライン更新で紹介されている主な変更点**(一般情報):血栓塞栓リスクのあるタンパク喪失性腎症の猫で第一選択薬としてクロピドグレルが挙げられるようになった/血清アルブミン<2.0 g/dLを治療開始の絶対的トリガーとする扱いを外した/FGF23を評価に取り入れる/ステージ2でも嘔吐・食欲低下・吐き気・体重や筋肉量の減少があれば対処を検討する、といった方向性。
 - **家庭での気づきのサイン(一般論)**:多飲多尿(水をよく飲む・尿量やトイレの回数が増える)、体重減少・筋肉が落ちる、食欲低下、毛づやの悪化、口臭、嘔吐、活動性の低下など。これらは他の病気でも起こるため、あくまで「受診のきっかけ」として紹介するのが無難。
 - **食事・水分の一般知識**:CKDが進んだ猫では、リンやタンパクを調整した療法食が広く用いられる、水分摂取を増やす工夫(ウェットフード、複数の給水場所、流水式給水器など)が一般的に勧められる、と紹介される。ただし療法食の要否・種類は個体差が大きく、獣医師の指示前提であることを明記すべき。
-- **新薬の動向(未確認・要検証、日本の話題)**:宮﨑徹博士らが進める「AIM」を用いた猫のCKD治療薬の開発が話題。報道・関係サイトによると2025年に国内複数施設で治験が進行、2026年に承認申請予定との情報があるが、承認・実用化時期は流動的。記事化する際は「開発中/未承認」と明確にし、断定を避ける。
+- **新薬の動向(未確認・要検証、日本の話題)**:宮﨑徹博士らが進める「AIM」を用いた猫のCKD治療薬の開発が話題。報道・関係サイトによると2025年に国内複数施設で治験が進行、2026年に承認申請予定との情報があるが、承認・実用化時期は流動的。記事化する際は「開発中/未承認」と明確にし、断定を避ける。(2026-07-10追記:進展あり。下部の追記セクション参照)
 - 出典:
   - [IRIS Staging System - IRIS Kidney](https://www.iris-kidney.com/iris-staging-system)
   - [IRIS CKD Staging in Cats: Stages 1-4 Guide | RadAnalyzer](https://www.radanalyzer.com/blog/iris-ckd-staging-guide-cats/)
@@ -94,6 +94,11 @@
 - IRISの数値カットオフは二次情報(RadAnalyzer等)で確認。IRIS公式PDFの直リンクは404だったため、公式サイト(iris-kidney.com/iris-guidelines-1)で最新原文の再確認が望ましい。
 - ACVIM MMVDは2019年版が最新として扱われている。より新しいコンセンサス改訂が出ていないか定期的に再確認。
 - AIM(猫CKD)新薬は日本の報道・関係サイト中心の情報。承認状況は「開発中・未承認」。査読論文・農水省の一次発表での裏取りが必要。
+- JAVMA 264(2)「Aging is modifiable」論文の本文詳細(著者名、フレイル・多疾患併存の具体的な記述箇所)は購読制限で確認できず、二次情報ベース。原文確認が望ましい。
+- 犬フレイル表現型・CFI(フレイル指数)の日本語での紹介・国内での応用例は今回確認できず。
+- AAHA 2026猫糖尿病ガイドラインの本文(治療アルゴリズム、DKA対応の詳細)は購読制限で未確認。二次情報ベース。
+- Bexacat・Senvelgo(SGLT2阻害薬)の日本国内承認状況は未確認。
+- AAHA 2026腫瘍学ガイドラインの本文(疾患別の詳細な診断・治療フロー)は購読制限で未確認。二次情報ベース。
 
 ---
 
@@ -108,3 +113,90 @@
   - [同・株式会社IAM CAT](https://iamcat.co.jp/news/2026/04/24/news0424/)
   - [FeliAIM Update: Cat CKD Drug Officially Filed April 2026 - Carelogy](https://carelogy-japan.com/en/columns/feliaim-approval-application-2026)
 - →記事ネタ:「猫の腎臓病新薬『FeliAIM』、承認申請の“今”を正確に伝える」。期待を持たせつつも「まだ使えない・数字は今後の検証待ち」と誠実に線引きする記事は、飼い主の過度な期待や偽情報への耐性づくりに役立つ。
+
+---
+
+## 2026-07-11 追記:JAVMA 2026「老化は変えられる」論文とフレイル(虚弱)評価/AAHA 2026 猫糖尿病管理ガイドライン・腫瘍学ガイドライン
+
+依頼(獣医師)からの追加調査指示に基づき、JAVMAが2026年に発表したシニア犬猫ケア関連の知見を、認知機能(CCDS)以外にも広く調査した。老齢医学全般(フレイル・多疾患併存・健康的加齢)と、AAHAの新しい慢性疾患ガイドライン(猫糖尿病・腫瘍学)が主な収穫。
+
+### 1. 老齢医学全般:「健康的加齢(healthy aging)」という考え方
+
+- JAVMA Vol.264 Issue 2(2026年)に掲載された総説論文 **"Aging is modifiable: current perspectives on healthy aging in companion dogs and cats"** が、2025年にJAVMAで最も議論された論文として紹介されている。Royal Canin Research Center(Waltham Petcare Science Instituteなど関連機関)の研究者らによるもので、資金提供元はRoyal Canin SASの企業スポンサー付き総説である点は留意(利益相反の可能性は念頭に置いて読む)。
+- 主張の骨子(AVMAニュース記事等の紹介から):「加齢そのものは避けられないが、加齢がもたらす健康への悪影響の程度は、個体の生涯を通じて修正可能(modifiable)である」という考え方。目標は単純な寿命の延伸ではなく、**「健康寿命(healthspan)」**——身体的・精神的機能が良好に保たれている期間——を延ばすことに置かれている。
+- 実務上の提案として、症状が顕在化する前の「健康に見える段階」から老化についての対話を飼い主と始めることが推奨されている。目安として紹介されている開始年齢は、**猫で6〜7歳頃、犬は体格によるが5〜7歳頃から**、とされる(二次情報ベース、要検証)。
+- 監視・評価ツールとして、AAHAのシニアケアガイドライン(本ノート既出のIRIS・ACVIMステージング、notes-homecare.md 5章のシニア健診)に加え、QOL評価スケールや「フレイル(虚弱)」のスクリーニングツール(下記2章)の活用が挙げられている。
+- 出典:
+  - [Aging is modifiable: current perspectives on healthy aging in companion dogs and cats - JAVMA 264(2), 2026](https://avmajournals.avma.org/view/journals/javma/264/2/javma.25.06.0412.xml) ※本文は購読者限定、二次情報ベース
+  - [Study challenges conventional thinking on pet aging - AVMA News](https://www.avma.org/news/study-challenges-conventional-thinking-pet-aging)
+  - [Royal Canin symposium urges earlier pet healthy aging conversations - Petfood Industry](https://www.petfoodindustry.com/nutrition/research-notes/news/15823628/royal-canin-symposium-urges-earlier-pet-healthy-aging-conversations)
+- →記事ネタ:「シニア期の入口(犬5〜7歳・猫6〜7歳)から始める“老化との付き合い方”の話し合い」。まだ元気なうちに始める予防的な対話、という切り口はpetwebの伴走コンセプトと相性が良い。ただし企業スポンサー付き総説であることは記事内で強調する必要はないが、断定調にしない配慮は必要。
+
+### 2. フレイル(虚弱)スクリーニングツール — 犬・猫それぞれで開発が進む(研究段階)
+
+- ヒト老年医学の「フレイル」概念(予備能力の低下により、ちょっとしたストレスで健康状態が大きく崩れやすい状態)が、近年犬猫にも応用されつつある。**まだ研究・開発段階のツールが中心で、日本の動物病院で標準的に使われる段階ではない**(要検証)。
+- **犬:フレイル表現型(frailty phenotype)**:ヒト医学のFried frailty phenotypeを応用したモデル。**弱さ(weakness)・歩行の遅さ(slowness)・持久力の低下(poor endurance)・身体活動量の低さ(low physical activity)・体重減少(shrinking)** の5項目で評価し、該当項目数により「frail(3項目以上該当)」「pre-frail(1〜2項目該当)」「non-frail(該当なし)」の3群に分類する。
+  - 2025年のScientific Reports誌の報告では、frail群の生存期間中央値が約10.5か月だったのに対し、pre-frail群は約35.4か月、non-frail群は約42.5か月だったとされ、フレイル分類が予後(生存期間)と関連することが示唆されている(単一研究の報告であり、要検証)。
+- **犬:フレイル指数(Canine Frailty Index, CFI)**:ヒト医学の「累積欠損モデル(cumulative deficit model)」を応用し、獣医師による問診・身体検査の各項目のうち異常が見られた項目数を評価項目総数で割って算出するスコア。上記の表現型モデルとは異なるアプローチで、両者の比較研究も進んでいる段階。
+- **猫:フレイル質問票(Feline Frailty Questionnaire, FFQ)**:Elizabeth Colleran氏(故人)、Alexander German氏(University of Liverpool)らのグループが2025年にFrontiers in Veterinary Scienceでパイロット研究を発表。6施設・273頭の猫を対象に、**飼い主記入版**(高い所へのジャンプ・爪とぎの使用・反応速度・食習慣の変化・窓を見る/眠れているかなどQOLに関する項目)と**獣医師記入版**(筋肉量スコア[MCS]・爪の状態・過去3か月の体重減少や疲労・認知機能低下・慢性疾患の有無)の2種類の質問票を試験した。
+  - 122頭で両方の質問票が完成し、飼い主版では「高い所への昇り降りの躊躇」「食習慣の変化」「反応の遅れ」の3項目が、獣医師版では「筋肉量の減少」「疲労」「慢性疾患スコア」の3項目が、フレイル判定との関連が強かったと報告されている。
+  - **6か月間の追跡で、獣医師によりフレイルと判定された猫(64頭)の死亡率は20%(13頭)だったのに対し、フレイルでないと判定された猫(54頭)の死亡率は2%(1頭)**で、統計学的に有意差があった(p=0.003、Fisherの正確検定)。
+  - 著者らは「大規模な本試験を行う価値がある」段階のパイロット研究と位置づけており、**まだ臨床現場で標準化された診断ツールではない**。研究の限界として、猫は痛みや不調を隠すため飼い主評価に限界があること、対象の大半が雑種猫だったこと、年齢情報が飼い主申告で未検証だったことが挙げられている。
+- 位置づけの整理:これらのフレイル評価は、本ノート既出のIRIS(腎臓病)やACVIM(心臓病)のような「特定臓器の病期」を測るステージングとは異なり、**「個体全体の予備力・脆弱性」を横断的に評価しようとする試み**という理解ができる。AAHAのシニアケア健診(notes-homecare.md 5章)や体重・筋肉量チェック(notes-nutrition.md 5章のBCS/MCS)と組み合わせて理解すると位置づけがわかりやすい。
+- 出典:
+  - [Frailty: An important emerging concept in veterinary medicine - dvm360(2026年5月)](https://www.dvm360.com/view/frailty-an-important-emerging-concept-in-veterinary-medicine)
+  - [A non-randomized pilot study to test the feasibility of developing a frailty scale for pet cats (Frontiers in Veterinary Science, 2025 / PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11897749/)
+  - [Comparison of the frailty phenotype and frailty index for identifying vulnerable companion dogs (Scientific Reports, 2025)](https://www.nature.com/articles/s41598-025-28382-y)
+  - [A review of frailty instruments in human medicine and proposal of a frailty instrument for dogs (PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10333704/)
+- →記事ネタ:「まだ研究段階だが」と前置きしたうえで、「フレイル(虚弱)」という新しい物差しの紹介記事。「体重が減った」「疲れやすくなった」など、飼い主が“ただの年のせい”と流しがちなサインが実は予後に関わる、という啓発に使える。ツールの導入・診断は病院判断であることを必ず明記。
+
+### 3. 多疾患併存(multimorbidity)と老化研究(Geroscience)の動向
+
+- 2025年のレビュー「Geroscience and aging interventions in dogs and cats: from mechanisms to clinical care」(Journal of Veterinary Science)では、**老化そのものが複数の慢性疾患(多疾患併存)を引き起こす共通の駆動因子**であり、単一疾患ごとの対症療法だけでなく、栄養・運動・認知刺激・(研究段階の)薬理学的介入を組み合わせた「統合的な多角的ケア」が今後の方向性として論じられている。
+- 老化バイオマーカーの研究として、DNAメチル化時計(エピジェネティック時計)、テロメア長、細胞老化マーカー(p16INK4a)などが紹介されているが、**いずれも研究段階であり、臨床現場で日常的に使われる検査ではない**。
+- 薬理学的介入の例として、mTOR阻害薬ラパマイシンを中年犬に投与する**TRIAD試験(Test of Rapamycin In Aging Dogs、Dog Aging Project関連)**が紹介されているが、これも**研究段階であり、老化そのものを治療する薬として承認・実用化されたものではない**。記事化する際は「研究が進んでいる分野」という紹介にとどめ、実用可能な治療であるかのような書き方は避ける。
+- 出典:
+  - [Geroscience and aging interventions in dogs and cats: from mechanisms to clinical care (J Vet Sci, 2025, PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12520856/)
+- →記事ネタ:直接記事化するより、他の記事(関節炎・腎臓病・心臓病など個別疾患の記事)の中で「これらの病気は互いに独立ではなく、老化という土台でつながっている」という文脈補強に使うのが実用的。ラパマイシン等の実験段階の薬は、期待を煽らない書き方が必須。
+
+### 4. AAHA 2026 猫糖尿病管理ガイドライン(JAAHA掲載、AVMA報道)
+
+- AAHA(米国動物病院協会)が2026年5月、**猫に特化した初めての糖尿病管理ガイドライン**を発表した(JAAHA Vol.62 Issue 3掲載。2018年版は犬猫共通のガイドラインだったが、今回猫だけを対象に刷新)。糖尿病は高齢猫に多い代表的な内分泌疾患であり、本ノートのシニア慢性疾患テーマの一つとして新規追加。
+- **SGLT2阻害薬**(FDA承認薬:Bexacat[2022年承認]、Senvelgo[2023年承認])の位置づけが新たに整理された。対象は「これまでインスリン治療を受けたことがなく、他に大きな健康問題のない糖尿病の猫」で、**慎重な患者選定と経過観察が必要**とされる。インスリンは依然として治療の中心("mainstay")と位置づけられているが、猫ではSGLT2阻害薬という経口薬の選択肢が加わった点が大きな変化(犬には未承認)。
+- **モニタリング方法の転換**:これまで一般的だった「入院しての院内血糖曲線測定」は、**入院ストレスによる高血糖(ストレス性高血糖)が測定値を乱し解釈を複雑にするため、推奨されなくなった**。代わりに、臨床症状の観察・持続血糖モニタリング(CGM)・自宅での血糖測定データを組み合わせる方向が推奨されている。
+- **治療目標の考え方の変化**:従来の「厳格な血糖コントロール」を目指す方針から、**「臨床症状(多飲多尿・体重減少等)の緩和」を治療成功の指標とする**方向にシフトしたとされる。
+- **寛解(remission)**:一部の猫では糖尿病の寛解(インスリン等の治療なしで血糖が安定する状態)が現実的な目標として位置づけられている。寛解の維持には、**体重管理の徹底**と**低炭水化物のウェット(缶詰)フードの継続**が鍵になる、と紹介されている。
+- そのほか、糖尿病性ケトアシドーシス(DKA)、およびSGLT2阻害薬との関連で注意が呼びかけられる正常血糖性ケトアシドーシス(euglycemic DKA)への対応も盛り込まれている(詳細は二次情報のみで、本文未確認)。
+- 日本国内でのBexacat・Senvelgoの動物用医薬品としての承認・流通状況は今回確認できておらず、**未確認・要検証**。記事化する際は「米国のガイドラインの紹介」であることを明記し、国内での使用可否は個別に確認が必要と添える。
+- 出典:
+  - [2026 AAHA Diabetes Management Guidelines for Cats - JAAHA 62(3)](https://jaaha.kglmeridian.com/view/journals/aaha/62/3/article-p65.xml)
+  - [Updated AAHA diabetes management guidelines focuses on cats - AVMA News](https://www.avma.org/news/updated-aaha-diabetes-management-guidelines-focuses-cats)
+  - [AAHA Releases 2026 Feline Diabetes Management Guidelines - AAHA](https://www.aaha.org/news/aaha-releases-2026-feline-diabetes-management-guidelines/)
+  - [AAHA launches feline-specific update to diabetes management guidelines - dvm360](https://www.dvm360.com/view/aaha-launches-feline-specific-update-to-diabetes-management-guidelines)
+- →記事ネタ:「猫の糖尿病、治療の考え方が変わってきている——インスリンだけじゃない選択肢と、寛解という希望」。ただし新薬(SGLT2阻害薬)の国内承認状況が未確認のため、記事では「海外での動向」であることを明確にし、「自己判断で薬を求めない・かかりつけ医と相談」という導線を必ず添える。
+
+### 5. AAHA 2026 腫瘍学ガイドライン(犬猫)— 10年ぶりの改訂
+
+- AAHAが2026年、**「2026 AAHA Oncology Guidelines for Dogs and Cats」**を発表した。前回の腫瘍学ガイドラインは2016年版で、**約10年ぶりの全面改訂**という位置づけ。専門医だけでなく、一般開業の獣医師(GP)が自信を持ってがん患者に対応できるよう支援することを目的としている、と紹介されている(専門医へのアクセスが難しい地域・状況が背景にあるとされる)。
+- **有病率の目安(紹介記事より)**:犬の**約4頭に1頭**が生涯のいずれかの段階で腫瘍性疾患を発症するとされる。別の紹介では、10歳超の犬の約50%、10歳超の猫の約30%ががんの影響を受けるという数字も紹介されており、**がんは高齢犬猫の主要な疾患・死因の一つ**と位置づけられている(数字は紹介記事により幅があり、要検証)。
+- **新しい早期発見・スクリーニング検査への言及**:
+  - **リキッドバイオプシー(liquid biopsy)**:血液や尿からがんに関連する物質(バイオマーカー)を検出し、診断・スクリーニング・経過観察に用いる新しい検査アプローチとして紹介されている。
+  - **Nu.Q Vet Cancer Test**:血中のヌクレオソーム(nucleosome、細胞が壊れる際に血中に出てくる物質)を測定する犬用の血液検査。リンパ腫・血管肉腫など複数のがんのスクリーニング補助として言及されている。ある紹介記事では、7種のがんに対する感度・特異度として「感度約50%・特異度約97%」、血管肉腫で感度82%、リンパ腫で感度77%といった数値が紹介されているが、**製造元・販売元の情報を含む二次情報であり、査読論文での裏取りは今回できていない(要検証)**。非侵襲的(採血のみ、麻酔・手術不要)という点が実務上の利点として語られている。
+  - これらの検査は「7歳以上の犬の通常の健康診断時」や「がんになりやすい犬種」でのスクリーニングとしての利用が想定されている、との紹介があるが、**あくまで補助的なスクリーニングツールであり、確定診断には別途の精査(画像検査・生検等)が必要**という位置づけで理解しておくのが無難。
+- **緩和ケア・QOLの重視**:ガイドラインの紹介記事では、「がん治療で時に最も重要なのは化学療法そのものではなく、**食事(摂食)の維持と疼痛管理を目的とした支持療法**である」という専門家コメントが繰り返し引用されている。**飼い主が化学療法を中断する主な理由は食欲不振**であるとも指摘されており、栄養サポート・疼痛管理・飼い主とのコミュニケーションが治療継続のカギになる、という文脈で語られている。
+- ガイドラインは、がんの種類ごとの概要、診断・病期分類(ステージング)、治療の優先順位付け、院内でのチーム体制、経過観察(腫瘍別のフォローアップ間隔)、支持療法・疼痛管理・栄養サポート、飼い主とのコミュニケーション、化学療法を扱うスタッフ・飼い主の曝露安全対策、緩和ケア・終末期ケアまでを包括的にカバーしている、と紹介されている。
+- 位置づけの整理:本ノートの他疾患(CKD・MMVD・OA)と同様、「早期発見のための定期的な健診・年齢に応じた注意」というシニアケアの基本姿勢はがんにも共通する。QOL重視・支持療法優先という考え方は、notes-palliative-grief.md のHHHHHMMスケールやAAFP/IAAHPCホスピスガイドラインの思想とも一致する。
+- 出典:
+  - [2026 AAHA Oncology Guidelines for Dogs and Cats - AAHA](https://www.aaha.org/resources/2026-aaha-oncology-guidelines-for-dogs-and-cats/)
+  - [Revamped AAHA oncology guidelines coming in 2026 - AVMA News](https://www.avma.org/news/revamped-aaha-oncology-guidelines-coming-2026)
+  - [Key takeaways from AAHA's 2026 oncology guidelines - dvm360](https://www.dvm360.com/view/key-takeaways-from-aaha-s-2026-oncology-guidelines)
+  - [Section 2: What's New in Veterinary Oncology - AAHA](https://www.aaha.org/resources/2026-aaha-oncology-guidelines-for-dogs-and-cats/section-2-whats-new-in-veterinary-oncology/)
+  - [Nu.Q Vet Cancer Test - Volition(製品情報、参考程度)](https://volition.com/nu-q-vet-cancer-test-veterinarians/)
+- →記事ネタ:「シニア犬・猫のがん、早期発見のいま(血液検査でわかること・わからないこと)」「がん治療で本当に大事なのは“食べること”と“痛みを取ること”——支持療法という考え方」。新しい血液検査(Nu.Q等)は「まだ補助検査」という立ち位置を必ず明記し、過度な期待を煽らない。
+
+### 今回の要検証まとめ
+- JAVMA 264(2)論文の本文(著者名、フレイル・多疾患併存の具体的記述箇所)は購読制限で未確認。
+- 犬フレイル表現型・CFIの国内での紹介・応用例は未確認。
+- AAHA 2026猫糖尿病ガイドラインの本文(治療アルゴリズム詳細)は購読制限で未確認。
+- Bexacat・Senvelgoの日本国内承認状況は未確認。
+- AAHA 2026腫瘍学ガイドラインの本文、Nu.Q Vet Cancer Testの感度・特異度の一次(査読)論文は未確認。国内での同種検査の有無も未確認。
