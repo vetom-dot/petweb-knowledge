@@ -116,3 +116,25 @@
 - 猫のFCD専用の妥当性検証済みスケールの有無(犬のDISHAAに相当するもの)。
 - AAHA「Managing Cognitive Dysfunction and Behavioral Anxiety」ページの詳細(今回403で未取得)。
 - 日本国内の学会(日本獣医行動研究会等)のシニア行動変化に関する最新見解。
+
+---
+
+## 2026-07-10 追記:JAVMA CCDSガイドラインの重症度3段階分類、AAHAの薬物療法に関する記載
+
+- 前回宿題としていたJAVMA 2026(CCDS Working Groupガイドライン、Vol.264 Issue 4)の内容について、報道・大学発表の紹介記事から重症度分類の枠組みが確認できた(本文は依然アクセス制限のため、要旨・二次紹介記事ベース。要検証)。
+- ガイドラインはCCDSを**3段階の重症度(mild/moderate/severe)**で評価する枠組みを提案しているという:
+  - **Mild(軽度)**:徴候が軽微・低頻度で、通常の機能はおおむね保たれる。飼い主から「年のせい」と見過ごされやすく、スクリーニングしないと気づかれない場合がある、とされる。
+  - **Moderate(中等度)**:徴候がより頻繁・重度になり、日常生活に支障が出始め、生活上の管理の調整が必要になる。
+  - **Severe(重度)**:徴候が明白かつ生活に支障をきたすレベルに達し、基本的な生活動作にも支援が必要で、包括的な管理が必要になる。
+  - この重症度スケールは、診断時の評価だけでなく、継続的なモニタリング(進行の追跡)にも使うことを想定した設計、と紹介されている。前回ノートに記載したスクリーニング間隔(7歳から年1回、10歳から6か月ごと)と組み合わせて使う枠組みと理解できる。
+  - このガイドラインは、米ノースカロライナ州立大学(NC State)を含む国際的な専門家パネル(CCDS Working Group)によるもの、との紹介がある。
+- 併せて、以前403で取得できなかったAAHA「Managing Cognitive Dysfunction and Behavioral Anxiety」ページの内容も一部確認できた:
+  - 治療アプローチとして、セレギリン(犬)、療法食、環境エンリッチメントに加え、**不安症状に対してはトラゾドンやアルプラゾラムのような短時間作用型の薬剤が、作用の立ち上がりの速さ・体内からの消失の速さ・限定的な副作用プロファイルという理由でタスクフォースに好まれている**、との記載がある(あくまで一般的な治療選択肢の紹介であり、本ノートでは特定の処方推奨はしない)。
+  - 飼い主が早期の徴候に気づきにくいことが繰り返し強調されており、早期認識・早期対応の重要性が述べられている。
+- →記事ネタ:「愛犬の認知症、いま軽度?中等度?——進行度を知ることで見えてくる次の一手」。3段階の考え方を、DISHAAチェックリスト(本ノート2章)と組み合わせて飼い主向けに翻訳すると実用的な記事になる。断定診断はせず「病院での評価のたたき台」という位置づけを必ず添える。
+- 出典:
+  - [Researchers Develop Guidelines for Diagnosing, Monitoring Canine Cognitive Decline - NC State News](https://news.ncsu.edu/2026/01/researchers-develop-guidelines-for-diagnosing-monitoring-canine-cognitive-decline/)
+  - [New expert guidelines standardize diagnosis and monitoring of canine dementia - EurekAlert!](https://www.eurekalert.org/news-releases/1114121)
+  - [Researchers create canine cognitive decline guidelines - dvm360](https://www.dvm360.com/view/researchers-create-canine-cognitive-decline-guidelines)
+  - [Managing Cognitive Dysfunction and Behavioral Anxiety - AAHA](https://www.aaha.org/resources/2023-aaha-senior-care-guidelines-for-dogs-and-cats/managing-cognitive-dysfunction-and-behavioral-anxiety/)
+- 要検証として残る点:JAVMA本文での正確なステージ判定基準(スコアの閾値等)、CADES/CCDR等既存スケールとの対応関係。
