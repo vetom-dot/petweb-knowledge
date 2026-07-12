@@ -1,6 +1,6 @@
 # 在宅介護実務 知識ノート
 
-最終更新: 2026-07-10
+最終更新: 2026-07-12
 担当テーマ: 高齢犬・高齢猫の在宅介護の実務（寝たきりケア・歩行補助・介護用品・排泄ケア・口腔ケア・シニア健診・飼い主の介護負担・業界動向）
 
 ※本ノートは一般的な情報提供の材料であり、個々の動物の診断・治療の代わりにはならない。記事化の際も「一般的にはこう言われている」「かかりつけ獣医師に相談を」の前提を必ず添えること（獣医師法18条との整合）。
@@ -158,3 +158,19 @@
   - [犬・猫など全15種のどうぶつのデータが満載！『アニコム 家庭どうぶつ白書』2025年版公開 - anicom you](https://mag.anicom-sompo.co.jp/30568)
   - [家庭どうぶつ白書（本体・無料公開）](https://www.anicom-page.com/hakusho/)
 - →記事ネタ：白書2025の詳細（介護アンケートの新項目の有無、診療費データ等）は本体PDFでの確認が次回の宿題。「平均寿命はほぼ足踏み傾向」という切り口も、油断せず健診を勧める文脈で使える。
+
+---
+
+## 2026-07-12 追記：犬用「介護負担」評価ツール(CCBAT)の具体的な構成・信頼性データ
+
+- 本ノート6章で既に紹介した「犬用介護負担評価ツールの開発・検証（Human-Animal Interactions, 2025）」について、ツールの具体的な構成と統計的な信頼性の数値が確認できたので補足する。
+- 開発者はKent州立大学のMary Beth Spitznagelらのグループ。**Canine Caregiver Burden Assessment Tool（CCBAT）**という名称で、人の介護研究で使われるZarit Burden Interview（ZBI）を単純に転用するのではなく、犬の飼い主向けにゼロから作成・検証した初めてのツール、という位置づけ。
+  - **24項目**の質問紙で、**4つの下位尺度**（Impact on Life：生活への影響、Embarrassment/Frustration：恥ずかしさ・苛立ち、Difficulty Providing Care：ケア提供の困難さ、Overwhelm：圧倒される感覚）から構成される。
+  - 短縮版として**5項目版（CCBAT-A）**と**1項目のスクリーナー**も同時に開発されている。臨床現場や飼い主アンケートで手早く使える設計を意識したものと考えられる。
+  - 初期の検証サンプル（n=375）で開発し、別の交差検証サンプル（n=329）で確認するという2段階の検証手続きを経ている。
+  - 信頼性の数値（一般公開されている紹介記事ベース）：内部一貫性（α=0.91〜0.92）、1か月後の再検査信頼性（r=0.85〜0.93）、既存の介護負担尺度との併存的妥当性（r=0.83〜0.84）。いずれも心理測定学的に「優れている」とされる水準。短縮版CCBAT-Aも本体との相関がr=0.91〜0.93と高く、実用に耐える水準の指標が示されている。
+- 位置づけ：これまでの研究の多くが人間介護用のZBIを転用していたのに対し、CCBATは犬の飼い主の実態に即して独自開発された点が新しい。「介護負担は飼い主・ペット・獣医療チームそれぞれに悪影響を及ぼしうる」という前提のもと、負担を定量的に把握する手段が整ってきたことを示す動き、と理解できる。
+- →記事ネタ：本ノート6章の「介護がつらいのはあなたが弱いからではない」記事に、「実際にこういう項目で測られている」という具体性を加えられる。CCBATの4下位尺度（生活への影響／恥ずかしさ・苛立ち／ケアの困難さ／圧倒感）はそのまま飼い主向けセルフチェックの見出し候補になる。ただし本ノートでは尺度の項目本文までは確認できておらず、正式な質問文の引用は避けること（要検証）。
+- 出典：
+  - [Development and psychometric validation of a canine caregiver burden assessment tool (Human-Animal Interactions, 2025)](https://www.cabidigitallibrary.org/doi/10.1079/hai.2025.0052)
+  - [New Publication Alert: Development and Validation of a Canine Caregiver Burden Assessment Tool - petcaregiverburden.com](https://www.petcaregiverburden.com/single-post/new-publication-alert-development-and-validation-of-a-canine-caregiver-burden-assessment-tool)

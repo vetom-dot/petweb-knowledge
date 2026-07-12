@@ -1,6 +1,6 @@
 # 認知機能低下・夜鳴き 知識ノート
 
-最終更新: 2026-07-10
+最終更新: 2026-07-12
 
 シニア犬・シニア猫の認知機能不全症候群(CDS/CCDS)、夜鳴き・徘徊・行動変化に関する知識メモ。
 本ノートは一般的な情報提供の材料であり、個体を特定した診断・処方の代わりにはならない。記載は「一般的にはこう言われている」という調子でまとめ、断定的な治療推奨はしない(獣医師法18条との整合)。エビデンスが不十分・未確認のものはその旨を明記する。
@@ -138,3 +138,56 @@
   - [Researchers create canine cognitive decline guidelines - dvm360](https://www.dvm360.com/view/researchers-create-canine-cognitive-decline-guidelines)
   - [Managing Cognitive Dysfunction and Behavioral Anxiety - AAHA](https://www.aaha.org/resources/2023-aaha-senior-care-guidelines-for-dogs-and-cats/managing-cognitive-dysfunction-and-behavioral-anxiety/)
 - 要検証として残る点:JAVMA本文での正確なステージ判定基準(スコアの閾値等)、CADES/CCDR等既存スケールとの対応関係。
+
+---
+
+## 2026-07-12 追記:JAVMA CCDSガイドラインの「診断レベル1・2」の詳細、米国獣医師の実態調査、飼い主インタビュー研究、猫の認知機能不全の新知見
+
+### JAVMA CCDS Working Groupガイドラインの診断基準(Level 1 / Level 2)がより具体的に確認できた
+- 前回(2026-07-10)は重症度3段階(mild/moderate/severe)のみ紹介したが、今回、AVMA(米国獣医師会)ニュースおよび複数の二次紹介記事から、**診断そのものを2段階(Level 1・Level 2)に分ける枠組み**が確認できた(本文は購読制限のため要旨・二次紹介記事ベース。要検証)。
+  - **Level 1(臨床診断)**:DISHAAの兆候が進行性に一貫して見られる病歴、身体・整形外科的・神経学的検査および血液検査での他疾患の除外、神経学的検査が正常か左右対称でびまん性の前脳機能障害を示唆する所見であること、併存疾患を管理してもなお症状が持続すること、が要件とされる。
+  - **Level 2(画像診断を伴う確定的な診断)**:Level 1に加え、脳MRIで大脳皮質萎縮(具体的には視床間橋<interthalamic adhesion>の高さが5mm未満、という数値が紹介されている)が確認され、脳脊髄液検査が正常範囲であることを要件とする、との紹介がある。
+  - この2段階の枠組みは、一般開業医でも実施可能な「除外診断ベースの臨床診断」と、専門施設でのMRIまで踏み込む「確定診断」を区別する狙いと理解できる。→記事ネタ:「愛犬の認知症、MRIまでは必要?なくても診断できる場合とは」という切り口で、Level1/2の違いを飼い主向けに整理できそうだが、あくまで「病院での評価の枠組み」として紹介し、自己診断を促さないこと。
+- 出典:
+  - [New diagnostic tools for identifying early stages of canine dementia - AVMA](https://www.avma.org/news/new-diagnostic-tools-identifying-early-stages-canine-dementia)
+  - [Your Senior Dog Patient Might Have Dementia. Here Is How to Actually Diagnose It. - myvetcandy](https://www.myvetcandy.com/blog/2026/4/16/your-senior-dog-patient-might-have-dementia-here-is-how-to-actually-diagnose-it)
+  - [The Canine Cognitive Dysfunction Syndrome Working Group guidelines (JAVMA 264(4), 2026)](https://avmajournals.avma.org/view/journals/javma/264/4/javma.25.10.0668.xml)
+- 要検証:視床間橋5mm未満という具体的カットオフ値、CSF検査の正常範囲の定義は、いずれも二次情報経由であり本文での確認が望ましい。
+
+### ガイドライン公表前の米国の実態:獣医師調査(2025年1〜5月実施、Frontiers in Veterinary Science)
+- JAVMA 2026ガイドラインが登場する直前の状況を示す調査として、米国の犬を日常的に診察する獣医師318名を対象にしたアンケート調査(2025年1〜5月実施)が発表されている。
+  - 97.2%が「これまでにCCDSの診断をつけたことがある」と回答した一方、**約8割が「専門医への紹介はほとんど・まったく行わない」**と回答。
+  - 管理方法として最も多く推奨されていたのは薬物療法、具体的には**セレギリン**。ただしセレギリンを「最も効果的」と考える獣医師は約3割にとどまり、効果に関する見解は一致していなかった。
+  - 課題として、ベストプラクティスや治療効果に関する知識不足、飼い主側の関心の低さや経済的制約が治療推奨の妨げになっているとの回答が多かった。
+  - 調査時点(2025年)では「CCDSの診断・管理について広く受け入れられたガイドラインは存在しない」と結論づけられており、同年末〜2026年に登場したJAVMA CCDS Working Groupガイドラインは、まさにこの調査が指摘したギャップに応える形で出てきたと理解できる。
+- →記事ネタ:「認知症の犬、専門医に診てもらうべき?——実は多くの一般病院がまだ手探りだった」という、ガイドライン登場の背景を伝える記事に使える。飼い主に「かかりつけ医でもまず相談を、必要なら紹介してもらえないか聞いてみる」という前向きな行動を促す構成に。
+- 出典:
+  - [Current practices for diagnosis and management of Canine Cognitive Dysfunction Syndrome in the United States (Frontiers in Veterinary Science, 2025)](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2025.1685430/full)
+  - [同上(PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12605212/)
+
+### 飼い主の視点から見たCCD:早期認識の難しさと介護の心理的軌跡(2026年、Animals誌)
+- CCDが疑われる犬の飼い主22名への半構造化インタビュー調査(犬はCCDR(Canine Cognitive Dysfunction Rating scale)高スコア+飼い主報告の行動変化で選定)が2026年に発表された。
+- 主なテーマとして4つが抽出されている:(1)CCDに関連する症状の**認識の難しさ**(「年のせい」と区別しにくい)、(2)**飼い主と獣医師のコミュニケーションの難しさ**、(3)症状が徐々に進行する中での**生活・環境の適応**、(4)進行に伴う**疲弊・不安・罪悪感・終末期の意思決定に関するグリーフ**。
+- 症状の進行につれて、飼い主の体験は「症状への不確かさ」から「感情的・実務的な負担の増大」へと進んでいく一連の軌跡(caregiving trajectory)として描かれている、との報告。
+- 早期の気づき・獣医師とのコミュニケーション改善・飼い主支援の充実が、犬の快適さと飼い主の心理的負担軽減の両方につながりうる、と結論づけられている。
+- →記事ネタ:本ノート「6. 最新の研究動向」およびnotes-homecare.mdの介護負担セクションと接続できる話題。「認知症の犬との暮らしは『気づいてからが始まり』ではなく、気づく前から始まっている」という切り口で、DISHAAチェックリスト(本ノート2章)への早期アクセスを促す記事に使えそう。
+- 出典:
+  - [Canine Cognitive Dysfunction from the Perspective of Dog Owners: Recognition, Care, and Emotional Challenges (Animals, 2026)](https://doi.org/10.3390/ani16071117)
+  - [同上(PubMed)](https://pubmed.ncbi.nlm.nih.gov/41976095/)
+
+### 猫の認知機能不全(FCD):AAHAの「思いやりあるアプローチ」記事と新しい病理研究
+- AAHA Trends誌に2025年12月17日付で掲載された記事では、獣医療スタッフが飼い主とFCDについて話す際の姿勢について、実務的な提案がまとめられている:
+  - 飼い主は「認知機能不全」という診断が安楽死につながるのではと恐れ、症状を隠したり動揺したりすることがあるため、そうした不安は自然なものだと伝えたうえで、「目標はQOLを支えることである」と伝える対話が推奨されている。
+  - 臨床用語の「feline cognitive dysfunction」より、飼い主との共通理解を得やすいという理由で**「feline dementia(猫の認知症)」という言葉を使うことを勧める専門家もいる**、との紹介。
+  - 診断は除外診断が基本で、血液生化学・CBC・T4・尿検査・血圧測定が診断に含まれるべきとされる(本ノート3章の記載と整合)。
+  - FDA承認の猫FCD専用薬はなく治療法もないが、**環境エンリッチメント・食事の調整・(疼痛があれば)鎮痛の薬物療法・認知機能サポート**を組み合わせた集学的な管理により、QOL改善や進行の緩徐化が期待できるとされる。
+- 猫の認知機能不全とアルツハイマー病の関連について、2025年に新しい病理学的研究(McGeachan et al., European Journal of Neuroscience, 2025年8月、英エディンバラ大学ら)が発表された:
+  - 高齢猫・CDS猫の脳で、アミロイドβプラーク周囲において**ミクログリア(小膠細胞)とアストロサイトによるシナプスの「囲い込み・貪食(engulfment)」が増加**していることが確認された。CDS群では加齢群よりもプラークの周囲での毒性が強い(アミロイドβの蓄積量とグリアによるシナプス貪食の相関が強い)ことが示唆されている。
+  - この所見は、猫の脳萎縮・神経細胞脱落・アミロイドβプラーク・タウ病理・脳アミロイド血管症といった、アルツハイマー病と類似した病理像に、新たに「グリア細胞によるシナプス除去」という神経炎症的なメカニズムを加えるもの。猫のFCDが、人のアルツハイマー病研究に役立つ**自然発症モデル**としての価値をさらに支持する結果、との位置づけ。
+  - **注意**:あくまで病理・基礎研究レベルの知見であり、治療法に直結するものではない。
+- →記事ネタ:「猫の認知症、実は人間のアルツハイマー病研究にも役立っている」というOne Health的な切り口。飼い主向けには「診断名にとらわれず、QOLを支える工夫を一緒に考えましょう」というAAHAのトーンをそのまま生かせる。
+- 出典:
+  - [A compassionate approach to feline cognitive dysfunction - AAHA (2025年12月17日)](https://www.aaha.org/trends-magazine/publications/a-compassionate-approach-to-feline-cognitive-dysfunction/)
+  - [One Health connections: How feline cognitive dysfunction syndrome (CDS) research benefits from Alzheimer's research - AAHA (2025年9月25日)](https://www.aaha.org/trends-magazine/publications/one-health-connections-how-feline-cognitive-dysfunction-cds-research-benefits-from-alzheimers-research/)
+  - [Amyloid-Beta Pathology Increases Synaptic Engulfment by Glia in Feline Cognitive Dysfunction Syndrome (McGeachan et al., European Journal of Neuroscience, 2025)](https://onlinelibrary.wiley.com/doi/10.1111/ejn.70180)
+  - [同上(PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12340200/)
