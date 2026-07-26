@@ -143,3 +143,32 @@
   - [Revamped AAHA oncology guidelines coming in 2026 - AVMA News](https://www.avma.org/news/revamped-aaha-oncology-guidelines-coming-2026)
   - [Key takeaways from AAHA's 2026 oncology guidelines - dvm360](https://www.dvm360.com/view/key-takeaways-from-aaha-s-2026-oncology-guidelines)
 - →記事ネタ:「がんの治療中でも“食べること”と“痛みを取ること”を後回しにしない——支持療法という考え方」。HHHHHMMスケールの「Hunger」「Hurt」の実例として、がん治療中のペットを例に説明すると具体性が増す。
+
+---
+
+## 2026-07-26 追記:米国で「終末期ケア」の専門医制度化が進行中(ACVHPM)、IAAHPCガイドライン2026年改訂版
+
+### 1. ACVHPM(米国獣医ホスピス・緩和医療専門医会)が正式な専門分野としての認定を申請、パブリックコメント募集中
+
+- 2026年、American College of Veterinary Hospice and Palliative Medicine(ACVHPM)が、AVMA傘下のAmerican Board of Veterinary Specialties(ABVS)に対し、正式な獣医専門分野(Recognized Veterinary Specialty Organization)としての認定を申請していることが確認できた。ABVSはこの申請についてパブリックコメントを募集しており、**募集期間は2026年8月13日まで**とされている。
+- ACVHPMの申請書(letter of intent)では、終末期ケアが「獣医療の中で独立した不可欠な専門領域」であり、末期・慢性・進行性の疾患を抱える動物のケアを発展させることに特化した分野、と位置づけられている。認定されれば、専門医としての正式な認定(board certification)、厳格なトレーニング基準の設定、他の既存の認定専門分野(内科・外科等)と同等の制度的地位を得ることになる、と紹介されている。
+- 本ノート既出のIAAHPC認定資格(CHPV/CHPT/CHPA、研修受講ベースの認定)とは異なり、ABVSによる専門医認定はより公的で制度化された位置づけを持つ。認定されれば、緩和ケア・終末期ケアが「獣医師の間で自然発生的に広がってきた実務」から「正式な専門医制度を持つ分野」へ移行する大きな一歩になる。
+- **2026年7月現在、これはあくまで「認定申請中・パブリックコメント募集中」の段階であり、正式な専門分野として承認されたわけではない**。記事化する際は必ず申請中であることを明記する。
+- 出典:
+  - [Comments sought on proposed new specialty - AVMA](https://www.avma.org/blog/comments-sought-proposed-new-specialty)
+  - [The Hardest Moments in Veterinary Medicine May Finally Have Their Own Specialty - myvetcandy(2026年5月13日)](https://www.myvetcandy.com/news/2026/5/13/the-hardest-moments-in-veterinary-medicine-may-finally-have-their-own-specialty)
+  - [A new chapter: The American College of Veterinary Hospice and Palliative Medicine - AAHA](https://www.aaha.org/trends-magazine/publications/a-new-chapter-the-american-college-of-veterinary-hospice-and-palliative-medicine/)
+  - [Hospice and palliative care veterinarians seek recognition - VIN News](https://news.vin.com/default.aspx?pid=210&catId=611&Id=13388429)
+- →記事ネタ:「アメリカでは"看取りの専門医"が生まれつつある」という海外動向の紹介記事。日本ではまだ同様の制度化の動きが見られないことと対比させ、「今後、日本でも同様の専門性が求められていく可能性」という展望で締めると建設的。認定は申請段階にとどまることを必ず明記。
+
+### 2. IAAHPC「動物ホスピス・緩和ケアガイドライン」2026年改訂版
+
+- 本ノート既出のIAAHPC(International Association for Animal Hospice and Palliative Care)による一般ガイドライン(2013年初版、2016年AAHA/IAAHPC版、2023年AAFP/IAAHPC猫版)に続き、**2026年に改訂版の一般ガイドラインが発表された**ことが確認できた。
+- 紹介記事ベースで確認できた改訂版の主な構成: (1) 倫理的・実務的枠組み(疼痛管理・安楽死の位置づけを含む緩和ケアの基本原則)、(2) 苦痛・QOL評価(身体的・情緒的苦痛の評価とマネジメント、個体ごとのQOL評価の重視)、(3) 介護者支援(看取りに向き合う飼い主を支える戦略、メンタルヘルスへの配慮、グリーフサポートの促進)。
+- 内容の大枠は本ノート既出のAAHAシニアケアガイドラインやHHHHHMMスケールの考え方と重なるが、「介護者支援」を独立した柱として明記している点が特徴的。本ノート6章(介護負担)・7章(グリーフケア)の内容とも接続しやすい。
+- 出典:
+  - [Animal Hospice and Palliative Care Guidelines(概要) - IAAHPC](https://iaahpc.org/veterinary-guidelines/)
+  - [General Animal Hospice & Palliative Care Guidelines - IAAHPC](https://iaahpc.org/veterinary-guidelines/general-practice-guidelines/)
+  - [Veterinary hospice and end-of-life care: A profession comes full circle - AAHA](https://www.aaha.org/trends-magazine/publications/veterinary-hospice-and-end-of-life-care-a-profession-comes-full-circle/)
+- 要検証:2026年改訂版と旧版(2013年版がベース)との具体的な差分(新旧の条文突き合わせ)は今回確認できておらず、紹介記事ベースの整理にとどまる。ガイドライン本体PDFでの一次確認が望ましい。
+- →記事ネタ:本ノート冒頭の「ケアの単位は動物+家族」というpetwebの通奏低音と、ACVHPM専門医化の動きを組み合わせ、「終末期ケアが専門分化していく時代に、飼い主が知っておきたいこと」という導入記事にできる。

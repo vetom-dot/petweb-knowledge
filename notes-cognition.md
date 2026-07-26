@@ -191,3 +191,38 @@
   - [One Health connections: How feline cognitive dysfunction syndrome (CDS) research benefits from Alzheimer's research - AAHA (2025年9月25日)](https://www.aaha.org/trends-magazine/publications/one-health-connections-how-feline-cognitive-dysfunction-cds-research-benefits-from-alzheimers-research/)
   - [Amyloid-Beta Pathology Increases Synaptic Engulfment by Glia in Feline Cognitive Dysfunction Syndrome (McGeachan et al., European Journal of Neuroscience, 2025)](https://onlinelibrary.wiley.com/doi/10.1111/ejn.70180)
   - [同上(PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12340200/)
+
+---
+
+## 2026-07-26 追記:CCDSガイドラインの正式版掲載とモニタリング頻度の具体化、飼い主視点の質的研究、血漿メタボロミクス研究
+
+### 1. CCDS Working Groupガイドラインの正式版がJAVMA 264(4)に掲載、モニタリング頻度の具体的な推奨が確認できた
+
+- 本ノート既出(2026-07-10・07-12追記)のCCDS Working Groupガイドラインについて、査読を経た正式版が**JAVMA Volume 264, Issue 4(2026年)**に掲載されたことが確認できた(doi: javma.25.10.0668)。これまでは2026年1月時点の初期報道(AVMA News、dvm360、phys.org等)ベースの紹介にとどまっていたが、正式掲載により内容の裏付けが強まった形。
+- 新たに確認できた点として、**モニタリング(経過観察)の具体的な頻度の推奨**がある。二次情報(AAHA紹介記事等)によれば、**7歳から毎年、行動面の兆候について飼い主・獣医師によるスクリーニングを開始し、10歳からはCCDS評価スケール(DISHAA等)を6か月ごとに実施する**ことが推奨されているという。個体のスコアの経時変化を見ることで、CCDSの進行度(トラジェクトリー)を把握する狙いと理解できる。
+- この頻度の考え方は、notes-homecare.md 5章のシニア健診(7歳から半年に1回)の運用イメージと時期的に近く、「シニア健診のたびに認知機能もあわせてチェックする」という飼い主向けの提案に落とし込みやすい。
+- 出典:
+  - [The Canine Cognitive Dysfunction Syndrome Working Group guidelines for diagnosis and monitoring of canine cognitive dysfunction syndrome - JAVMA 264(4), 2026](https://avmajournals.avma.org/view/journals/javma/264/4/javma.25.10.0668.xml) ※本文は購読制限、紹介記事ベース
+  - [First ever guidelines published for diagnosis and monitoring of canine cognitive dysfunction - AAHA](https://www.aaha.org/trends-magazine/publications/first-ever-guidelines-published-for-diagnosis-and-monitoring-of-canine-cognitive-dysfunction/)
+  - [Guidelines developed for diagnosing, monitoring canine cognitive decline - phys.org](https://phys.org/news/2026-01-guidelines-canine-cognitive-decline.html)
+- 要検証:「7歳から毎年/10歳から半年ごと」という頻度がガイドライン原文でどの程度厳密な推奨(強い推奨か目安か)として規定されているかは、二次情報の域を出ていない。原文での確認が望ましい。
+
+### 2. 飼い主から見たCCD:認識・対応の遅れと感情的負担に関する質的研究
+
+- 2026年、Animals誌に「Canine Cognitive Dysfunction from the Perspective of Dog Owners: Recognition, Care, and Emotional Challenges」という論文が掲載された(doi: 10.3390/ani16071117)。CCDが疑われる愛犬を持つ飼い主22名への半構造化インタビューに基づく質的研究。
+- 報告によれば、CCDは犬のQOLを大きく損ないうるだけでなく**飼い主に重い感情的負担をもたらす**一方で、**しばしば見過ごされるか、診断・気づきが遅れる**ことが多いとされる。症状の認識や獣医師とのコミュニケーションのあり方が、飼い主が適切なケアの意思決定を行えるかどうかに影響している、という主旨の指摘がある(具体的な障壁の内訳は抄録レベルの確認にとどまり、本文精査は未実施・要検証)。
+- この知見は、本ノート既出の「飼い主は変化を"年のせい"と捉えがちで見逃しやすい」という論点を、当事者インタビューという形で裏付けるものと理解できる。
+- →記事ネタ:「"なんか変"は認知症のサインかもしれない——飼い主が見逃しがちな初期サイン」という記事に、「同じように悩む飼い主は少なくない」という当事者性を添える裏付けとして使える。個別の発言の直接引用は避け、研究全体の傾向として紹介すること。
+- 出典:
+  - [Canine Cognitive Dysfunction from the Perspective of Dog Owners: Recognition, Care, and Emotional Challenges (Animals, 2026)](https://doi.org/10.3390/ani16071117)
+  - [PubMed収載ページ](https://pubmed.ncbi.nlm.nih.gov/41976095/)
+
+### 3. 血漿メタボロミクス研究:アルツハイマー病との代謝面での類似性(小規模・研究段階)
+
+- 2026年、Frontiers in Neuroscience誌に、老齢犬の血漿メタボロミクス(代謝物網羅的解析)研究が掲載された(UPLC-MSによる未標的メタボロミクス)。**重度の認知機能低下がある老齢犬5頭と健康な対照犬5頭という非常に小規模なケースコントロール研究**である点に注意が必要(要検証:一般化には慎重さが求められる)。
+- 7つの化学クラスにわたる15種類の代謝物(グリセロリン脂質、ステロイド誘導体、インドール類、ミトコンドリア関連化合物等)に有意な変化が報告されている。具体的には、リゾホスファチジン酸の上昇とユビキノン-2の低下が、神経炎症・酸化ストレス経路の乱れを示唆する所見として紹介されている。
+- 著者らは、この代謝面の変化パターンが、ヒトのアルツハイマー病における脂質代謝・ミトコンドリア機能・酸化ストレスの異常と類似すると位置づけている。本ノート既出(McGeachan et al.のグリア細胞研究)と同様、**あくまで研究段階のバイオマーカー探索であり、臨床現場で使える検査や治療に直結するものではない**。
+- →記事ネタ:単独記事にするより、他のCCD関連記事の中で「こうした基礎研究が世界的に進んでいる」という将来展望の一段落として添える使い方が適切。「犬用アルツハイマー病の薬ができた」といった誤解を招く書き方は厳禁。
+- 出典:
+  - [Untargeted plasma metabolomics in canine cognitive dysfunction: the naturally occurring Alzheimer's disease analog in dogs - Frontiers in Neuroscience, 2026](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1681817/full)
+  - [プレプリント版 - bioRxiv (2025年6月)](https://www.biorxiv.org/content/10.1101/2025.06.20.660766v1)

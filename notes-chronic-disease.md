@@ -200,3 +200,18 @@
 - AAHA 2026猫糖尿病ガイドラインの本文(治療アルゴリズム詳細)は購読制限で未確認。
 - Bexacat・Senvelgoの日本国内承認状況は未確認。
 - AAHA 2026腫瘍学ガイドラインの本文、Nu.Q Vet Cancer Testの感度・特異度の一次(査読)論文は未確認。国内での同種検査の有無も未確認。
+
+---
+
+## 2026-07-26 追記:抗NGF抗体製剤(Librela/Solensia)の有害事象報告件数(EU・米国の集計、要検証)
+
+- 本ノート3章で既に紹介した抗NGF抗体製剤(Solensia=フルネベトマブ、猫用/Librela=ベジンベトマブ、犬用)について、これまでは「有害事象の報告・注視が呼びかけられている」という定性的な紹介にとどまっていたが、具体的な集計件数を紹介する記事が複数確認できたので補足する。
+- 2021年の欧州承認以降、世界で1,800万回分以上が投与されたとされる中、**EU側の医薬品有害事象疑い報告データベースには、Librelaについて15,233件、Solensiaについて8,653件の報告**が寄せられている、との紹介がある。米国では、**FDAに対しLibrelaで3,359件、Solensiaで3,264件の有害事象報告**が寄せられている(集計時点は2026年3月31日、との紹介)。
+- 報告されている副作用の内訳としては、犬(Librela)では嗜眠(元気消失)、運動失調(ataxia)などの神経症状、腎臓・尿路系の異常、嘔吐など消化器系の異常が多く報告されているとされる。猫(Solensia)では皮膚症状が比較的多く報告されている、との紹介がある。
+- **読み方の注意点**:これらの数値は自発報告データベース(スポンタニアス・リポート)に基づくものであり、投与された全頭数に対する発生率(母数で割った割合)を直接示すものではなく、因果関係が確認された件数でもない。新しい薬であるほど注目され報告数が増えやすいという性質もあり、「件数が多い=危険」と単純化しない読み方が必要(規制当局の有害事象データベース全般に共通する一般的な限界)。
+- 数値は複数の二次情報(獣医師向けニュースサイト・ブログ)経由であり、FDAのCVM ADE Database・EUのEudraVigilance-Vet等、一次データベースでの直接確認は今回できていないため「要検証」として扱う。記事化する際は、件数を紹介する場合も必ずこの限界を明記し、中立的なトーンにとどめる。
+- 出典:
+  - [Veterinarians weigh benefits, risks of new osteoarthritis drugs - VIN News](https://news.vin.com/default.aspx?pid=210&catId=614&Id=12137959)
+  - [Librela and Solensia: What I've Learned About These Arthritis Drugs for Dogs and Cats(獣医師ブログ、2026年5月7日)](https://drbrunke.blog/2026/05/07/librela-and-solensia-what-ive-learned-about-these-arthritis-drugs-for-dogs-and-cats/)
+  - [FDA notifies veterinarians of adverse events linked to canine osteoarthritis treatment - dvm360](https://www.dvm360.com/view/fda-notifies-veterinarians-of-adverse-events-linked-to-osteoarthritis-treatment)
+- →記事ネタ:「関節炎の新しい注射(抗NGF抗体)、"○件報告されている"という数字をどう読むか」。件数だけで怖がらせるのではなく、自発報告データベースの性質・新薬ゆえの報告数増加という読み方のリテラシーを伝える記事にできる。本ノート3章の記事ネタ(効果と注意点をフラットに)と組み合わせて展開可能。
