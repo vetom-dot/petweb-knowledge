@@ -1,6 +1,6 @@
 # 在宅介護実務 知識ノート
 
-最終更新: 2026-07-12
+最終更新: 2026-08-02
 担当テーマ: 高齢犬・高齢猫の在宅介護の実務（寝たきりケア・歩行補助・介護用品・排泄ケア・口腔ケア・シニア健診・飼い主の介護負担・業界動向）
 
 ※本ノートは一般的な情報提供の材料であり、個々の動物の診断・治療の代わりにはならない。記事化の際も「一般的にはこう言われている」「かかりつけ獣医師に相談を」の前提を必ず添えること（獣医師法18条との整合）。
@@ -174,3 +174,19 @@
 - 出典：
   - [Development and psychometric validation of a canine caregiver burden assessment tool (Human-Animal Interactions, 2025)](https://www.cabidigitallibrary.org/doi/10.1079/hai.2025.0052)
   - [New Publication Alert: Development and Validation of a Canine Caregiver Burden Assessment Tool - petcaregiverburden.com](https://www.petcaregiverburden.com/single-post/new-publication-alert-development-and-validation-of-a-canine-caregiver-burden-assessment-tool)
+
+---
+
+## 2026-08-02 追記：飼い主の介護負担(caregiver burden)研究の最新動向 — 香港のがん治療研究の詳細ほか
+
+- 本ノート6章で紹介した「がん治療中の犬猫の飼い主の介護負担研究(香港)」について、**Journal of Small Animal Practice誌(2026年1月)**に正式掲載されたことが確認できたので、方法・結果の詳細を補足する。
+- 香港の二次診療施設の腫瘍科を受診した犬猫の飼い主を対象に、2023年11月〜2024年8月にオンライン質問紙調査を実施。介護負担の測定には、人の介護研究で広く使われるZarit Burden Interview(ZBI)を**7項目・28点満点に短縮・改変した版**を用い、**9点以上を「介護負担が高い」の基準**とした。
+- 主な結果として、**治療期間が長引くほど介護負担が高くなる**という関連が報告された。一方、**猫の飼い主と犬の飼い主とで介護負担のレベルに統計学的な有意差はなかった**とされる(本ノート6章で紹介した2025年の別の横断研究では猫の飼い主の負担スコアがやや高い傾向も報告されており、疾患・研究デザインによって結果に幅があることがうかがえる。要検証:両研究の対象疾患・尺度が異なる点に留意)。
+- 著者らは、負担に関連する要因を把握することで獣医療者が飼い主をより適切に支援でき、獣医師-飼い主関係の改善にもつながる、と結論づけている。
+- 関連する動きとして、犬の**問題行動**(高齢犬の認知機能低下に伴う行動変化も含みうる領域)と飼い主の罪悪感・介護負担・心理的ウェルビーイングに関する2026年の横断研究(565名の飼い主対象)では、**78%が高い介護負担、33%が不安症状の疑い、20%が抑うつ症状の疑いに該当**したという報告がある。こちらは疾患・年齢を限定しない「問題行動全般」を対象にした研究で、高齢犬・シニア犬に特化した知見ではない点に注意が必要だが、「介護負担は病気の看病に限らず、行動面のケアでも生じうる」という文脈で参考にできる(高齢犬・認知機能低下犬のサブグループ解析の有無は今回未確認・要検証)。
+- →記事ネタ：本ノート6章の記事構想に、「介護負担は治療が長引くほど積み重なる」という具体的な知見を追加できる。「猫も犬も、がんばっている飼い主のつらさに優劣はない」という語り口で、猫の飼い主が抱えがちな「うちは大したことない」という遠慮を和らげる一文にも使えそう。
+- 出典：
+  - [Caregiver burden in owners of dogs and cats undergoing anticancer therapy in a referral hospital in Hong Kong - Journal of Small Animal Practice, 2026年1月(Wiley)](https://onlinelibrary.wiley.com/doi/10.1111/jsap.70015)
+  - [同上(PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12828097/)
+  - [同上(PubMed)](https://pubmed.ncbi.nlm.nih.gov/40814195/)
+  - [Beyond the Behavior: Caregiver Guilt, Burden, and Well-Being Among Owners of Dogs with Behavior Problems (Pets, MDPI, 2026)](https://www.mdpi.com/2813-9372/3/2/22)

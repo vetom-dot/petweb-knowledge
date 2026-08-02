@@ -1,6 +1,6 @@
 # 慢性疾患管理 知識ノート
 
-最終更新: 2026-07-11
+最終更新: 2026-08-02
 
 対象:高齢犬・高齢猫に多い慢性疾患(慢性腎臓病・心臓病・変形性関節症・疼痛管理・がん)、および老齢医学全般(フレイル・多疾患併存・健康的加齢)。
 本ノートは飼い主向け記事の材料であり、一般的な情報提供にとどめる。個体を特定した診断・治療・処方の代わりにはならず、断定的な治療推奨はしない(獣医師法18条の趣旨に沿う)。「一般的にはこう言われている」調で整理。
@@ -215,3 +215,21 @@
   - [Librela and Solensia: What I've Learned About These Arthritis Drugs for Dogs and Cats(獣医師ブログ、2026年5月7日)](https://drbrunke.blog/2026/05/07/librela-and-solensia-what-ive-learned-about-these-arthritis-drugs-for-dogs-and-cats/)
   - [FDA notifies veterinarians of adverse events linked to canine osteoarthritis treatment - dvm360](https://www.dvm360.com/view/fda-notifies-veterinarians-of-adverse-events-linked-to-osteoarthritis-treatment)
 - →記事ネタ:「関節炎の新しい注射(抗NGF抗体)、"○件報告されている"という数字をどう読むか」。件数だけで怖がらせるのではなく、自発報告データベースの性質・新薬ゆえの報告数増加という読み方のリテラシーを伝える記事にできる。本ノート3章の記事ネタ(効果と注意点をフラットに)と組み合わせて展開可能。
+
+---
+
+## 2026-08-02 追記:IRIS CKDガイドライン2026年版改訂 — 貧血管理の数値基準とHIF-PH阻害薬(モリダスタット)の位置づけ明確化
+
+- 本ノート冒頭で紹介したIRIS(International Renal Interest Society)のCKDステージング・治療推奨文書について、**2026年版への改訂**が確認できた。診断・ステージングの枠組み自体は2023年版から大きな変更はないとされる一方、**貧血管理の治療開始基準が数値化・明確化**された点が主な変更点として紹介されている。
+- 具体的には、犬は**ヘマトクリット(HCT)30%未満で治療開始、30〜35%で持続する貧血がある場合も治療を検討**、猫は**HCT25%未満で治療開始、25〜28%で持続する貧血がある場合も治療を検討**、という具体的な閾値が示されるようになったとされる(従来はより曖昧な記載だったとの紹介)。
+- 治療選択肢として、猫の腎性(非再生性)貧血に対し、**HIF-PH阻害薬(低酸素誘導因子プロリン水酸化酵素阻害薬)**というカテゴリが、従来のダルベポエチン(エリスロポエチン製剤)・輸血と並んで明記されるようになった。代表例として名前が挙がるのが**モリダスタット(製品名Varenzin-CA1)**で、米国では**2023年5月にFDAが「猫の慢性腎臓病に伴う非再生性貧血のコントロール」を適応として条件付き承認**した薬剤(条件付き承認=有効性のさらなるエビデンス提出を前提に年単位で更新される承認形式)。経口投与が可能で、内因性エリスロポエチン産生を促す仕組みとされる。28日間のパイロット試験では、14日目時点で対象猫の50%でヘマトクリットの改善(4%以上の絶対的上昇、またはベースラインから25%の上昇)が見られ、56日目には75%で改善が見られたという報告がある一方、嘔吐・収縮期血圧上昇・血中カリウム値の軽度な一過性上昇が主な有害事象として報告されている。
+- 高血圧の評価についても、重症度に応じて再評価までの時間枠が明確化されたとの紹介がある(詳細は要検証、原文での確認が望ましい)。
+- 日本国内でのモリダスタット(Varenzin-CA1)の動物用医薬品としての承認・流通状況は今回確認できておらず、**未確認**。記事化する際は「米国で条件付き承認されている薬」という位置づけを明記し、国内での使用可否は個別に確認が必要と添える。
+- 出典:
+  - [IRIS Guidelines(公式サイト、2026年改訂版)](https://www.iris-kidney.com/iris-guidelines-1)
+  - [IRIS Pocket Guide to CKD(2026年6月版、PDF)](https://static1.squarespace.com/static/666b9ecb4064a156963b4162/t/6a530eca47407877573b5bbd/1783828170064/IRIS_Pocket_Guide_to_CKD_June+2026.pdf)
+  - [Molidustat in the Management of Nonregenerative Anemia in Feline Chronic Kidney Disease - Clinician's Brief](https://www.cliniciansbrief.com/article/molidustat-management-nonregenerative-anemia-feline-ckd)
+  - [FDA conditionally approves first drug for anemia in cats - dvm360](https://www.dvm360.com/view/fda-conditionally-approves-first-drug-for-anemia-in-cats)
+  - [FDA approves anemia drug for cats with chronic kidney disease - AVMA](https://www.avma.org/news/fda-approves-anemia-drug-cats-chronic-kidney-disease)
+  - [Treatments for Nonregenerative Anemia Associated with CKD in Cats - Today's Veterinary Practice](https://todaysveterinarypractice.com/pharmacology/treatments-for-nonregenerative-anemia-associated-with-ckd-in-cats/)
+- →記事ネタ:「猫の腎臓病、貧血が出てきたら——新しい飲み薬の選択肢と、数値で見る治療のタイミング」。本ノート冒頭のIRISステージング解説記事と組み合わせて、「ステージが進んだらどうなる?」という後半パートとして構成できる。国内未承認の可能性がある薬なので、期待を煽らない書き方に注意。
