@@ -172,3 +172,37 @@
   - [Veterinary hospice and end-of-life care: A profession comes full circle - AAHA](https://www.aaha.org/trends-magazine/publications/veterinary-hospice-and-end-of-life-care-a-profession-comes-full-circle/)
 - 要検証:2026年改訂版と旧版(2013年版がベース)との具体的な差分(新旧の条文突き合わせ)は今回確認できておらず、紹介記事ベースの整理にとどまる。ガイドライン本体PDFでの一次確認が望ましい。
 - →記事ネタ:本ノート冒頭の「ケアの単位は動物+家族」というpetwebの通奏低音と、ACVHPM専門医化の動きを組み合わせ、「終末期ケアが専門分化していく時代に、飼い主が知っておきたいこと」という導入記事にできる。
+
+---
+
+## 2026-08-09 追記:ペットの死別で「遷延性悲嘆症(PGD)」相当の基準を満たすという研究、Dog Aging Projectの終末期調査2本
+
+### 1. ペットとの死別後、ICD-11の「遷延性悲嘆症(Prolonged Grief Disorder)」診断基準を満たす人が一定割合いるという研究(PLOS ONE, 2026)
+
+- 英国の全国代表サンプル(成人975名)を対象とした調査で、**32.6%が愛着のあるペットとの死別を経験**しており、そのうち**7.5%がICD-11の遷延性悲嘆症(PGD)の診断基準に相当する水準**にあったと報告されている。
+- この7.5%という割合は、人間の近親者との死別後にPGDの「正当な」リスク要因とされる関係性における割合と近い水準だという:親しい友人(7.8%)、祖父母・いとこ・おじおば等の家族(8.3%)、きょうだい(8.9%)、パートナー(9.1%)。
+- ペットと人間の両方との死別を経験した回答者のうち、**21.0%が「ペットとの死別の方がより辛かった」と回答**したことも報告されている。
+- 著者らは、**ICD-11・DSM-5-TRのいずれも現状ではペットとの死別を理由にPGDの診断を下すことを認めていない**点を指摘しつつ、今回の結果は「ペットとの死別後にも、人間同士の『正当な』死別と同程度の臨床的に意味のある悲嘆が生じうる」ことを示すもの、と結論づけている。
+- 本ノート5-1章で既出の「公認されない悲嘆(disenfranchised grief)」という概念を、診断基準レベルの数値で裏付ける研究といえる。**あくまで英国サンプルでの1研究であり、日本での再現性は未確認**。
+- →記事ネタ:「ペットを亡くした悲しみは『大げさ』ではない——診断基準の観点からもわかってきたこと」。数字を出すことで、本ノート既出の「公認されない悲嘆」という抽象的な概念に具体性を与えられる。ただし「あなたも診断がつく」という煽り方は避け、「一人で抱え込まず専門家に相談してよい根拠がある」というトーンに徹する。
+- 出典:
+  - [No pets allowed: Evidence that prolonged grief disorder can occur following the death of a pet (PLOS ONE, 2026)](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0339213)
+  - [同上(PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12803462/)
+  - [One in five Britons say losing their pet was worse than losing a person – new study (The Conversation)](https://theconversation.com/one-in-five-britons-say-losing-their-pet-was-worse-than-losing-a-person-new-study-273410)
+  - [Study finds prolonged grief disorder can follow the death of a pet - dvm360](https://www.dvm360.com/view/study-finds-prolonged-grief-disorder-can-follow-the-death-of-a-pet)
+- 要検証:サンプルは英国の成人975名であり、日本の文化的文脈にそのまま当てはまるかは不明。本文(サンプリング手法の詳細、PGD評価尺度の具体的項目)は検索結果ベースの整理にとどまり、原著論文での確認が望ましい。
+
+### 2. Dog Aging Project:「安楽死」と「自然死(無介助死)」で悲嘆の重さは変わらないという調査(JAVMA, 2026)
+
+- 米国の大規模コホート研究Dog Aging Projectの「End of Life Survey」を用いた調査が、2026年にJAVMAへ2本続けて掲載された(テキサスA&M大学のグループが中心)。
+- 1本目は、死亡した愛犬の飼い主646名の回答(2019年12月〜2021年3月に死亡した犬が対象、回答率85.7%)を分析したもので、**安楽死を選んだ理由として「痛み・苦しみ」が最も多く、次いで「QOLの低さ」「予後不良」**が挙げられた。飼い主は、鳴き声・歩行の変化・表情の変化といった具体的な徴候から「苦しんでいる」と判断することが多かったという。
+- 2本目は、同調査の自由記述(フリーテキスト)回答を分析したもので、**安楽死によって看取られた犬と、投薬なしの自然死(unassisted death)を迎えた犬とで、飼い主が語る悲嘆・罪悪感・自責の念の程度は同程度**だったと報告されている。違いとして、自然死の場合は「突然だった」という言及がより多く見られた。
+- 研究チームは、**死の経緯(安楽死か自然死か)にかかわらず、すべての遺族となった飼い主にグリーフサポートの情報を提供すべき**だと結論づけている。
+- 本ノート既出のAVMA終末期ケアの枠組み(意思決定支援・苦痛緩和・人道的手技・遺体の扱い)に、「看取り方によらず悲嘆支援を提供する」という視点を補強する知見といえる。
+- →記事ネタ:「安楽死を選んでも、自然に看取っても、悲しみの重さは変わらない」という切り口。特に「安楽死を選んだことに罪悪感を持つ飼い主」に向けて、「その罪悪感は特別なものではなく、多くの飼い主が経験している」というメッセージを伝える記事に使える。本ノート5-1章「複雑性悲嘆」や6章の日本の相談窓口案内ともつなげやすい。
+- 出典:
+  - [The Dog Aging Project End of Life Survey reveals owners' perceptions of canine death and highlights areas to improve client education (JAVMA 264, ahead of print, 2026)](https://avmajournals.avma.org/view/journals/javma/aop/javma.25.12.0863/javma.25.12.0863.xml)
+  - [同上(PubMed)](https://pubmed.ncbi.nlm.nih.gov/41812328/)
+  - [Owner-reported experiences are similar for dogs experiencing euthanasia or unassisted death: evaluation of the Dog Aging Project's End of Life Survey free-text responses (JAVMA 264(3), 2026)](https://avmajournals.avma.org/view/journals/javma/264/3/javma.25.07.0464.xml)
+  - [Dog Aging Project Studies Offer Insight Into How Owners Experience Pet Loss - Texas A&M Vet Med](https://vetmed.tamu.edu/news/press-releases/dog-aging-project-pet-loss-grief-study/)
+- 要検証:JAVMA本文(自由記述の具体的なテーマ分類、統計的有意差の検定結果)は検索結果・プレスリリースベースの整理にとどまり、原文での確認が望ましい。

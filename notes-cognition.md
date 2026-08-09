@@ -226,3 +226,32 @@
 - 出典:
   - [Untargeted plasma metabolomics in canine cognitive dysfunction: the naturally occurring Alzheimer's disease analog in dogs - Frontiers in Neuroscience, 2026](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1681817/full)
   - [プレプリント版 - bioRxiv (2025年6月)](https://www.biorxiv.org/content/10.1101/2025.06.20.660766v1)
+
+---
+
+## 2026-08-09 追記:血液バイオマーカー(RBP4・CXCL10・NOX4)の検証研究、CCDS診断・管理に関する包括的レビュー2本
+
+### 1. 血液バイオマーカー3種(RBP4・CXCL10・NOX4)の検証研究(Animals誌, 2025)
+
+- CCDSの早期発見に使える血液バイオマーカーの候補として、**RBP4(レチノール結合タンパク4)・CXCL10(ケモカインの一種)・NOX4(NADPHオキシダーゼ4)**の3種を検証した研究が発表されている(Animals 15(13):1974, 2025)。
+- 犬85頭をCCDR(Canine Cognitive Dysfunction Rating scale)のスコアに基づき「正常」「軽度認知障害」「重度認知障害」「CCDS」の4群に分類し、血漿中の各バイオマーカー濃度をELISAで測定。**CCDS群では正常群に比べ、RBP4・CXCL10・NOX4のいずれも有意に低下**しており、**バイオマーカー濃度が低いほどCCDRスコア(=認知機能低下の程度)が高い**という相関が報告された。
+- 機械学習(サポートベクターマシン)による解析では、**RBP4とNOX4を組み合わせた場合に最も高い予測精度**が得られたという。
+- **注意:研究段階の知見であり、臨床現場で使える確立した血液検査ではない**。本ノート既出(2026-07-26追記)の血漿メタボロミクス研究と同様、「将来こうした血液検査が実用化するかもしれない」という展望として扱うにとどめるべき(要検証)。
+- →記事ネタ:単独記事にはせず、「犬の認知症、将来は採血で早期発見できるようになる?」という一段落を、他のCCD記事の将来展望パートに添える使い方が適切。
+- 出典:
+  - [Evaluation of Blood-Based Diagnostic Biomarkers for Canine Cognitive Dysfunction Syndrome (Animals, 15(13):1974, 2025)](https://doi.org/10.3390/ani15131974)
+  - [同上(PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12249050/)
+
+### 2. CCDSの診断・管理に関する包括的レビュー2本(2025〜2026年)
+
+- 本ノートで既出のJAVMA CCDS Working Groupガイドライン(2026)やLevel1/Level2診断基準を、より広い文献レビューの形でまとめ直した総説が2本、相次いで発表されている。
+  - 「Diagnosis of Canine Cognitive Dysfunction Syndrome: A Narrative Review」(Veterinary Sciences, 12(8):781, 2025)
+  - 「Evidence-Based Clinical Management of Canine Cognitive Dysfunction Syndrome: Diagnostic Algorithms, Practical Guidelines, Critical Appraisal of Biomarkers and Translational Limitations」(Animals, 16(7):1114, 2026)
+- いずれも本ノート既出のLevel1(除外診断+DISHAA徴候の病歴)/Level2(脳MRIでの皮質萎縮確認+脳脊髄液検査)という2段階の診断枠組みを踏襲しつつ、**NfL(神経フィラメント軽鎖)やβアミロイド42などのバイオマーカーは「研究段階では測定できるが、標準化された検査法や基準値はまだ確立していない」**と改めて位置づけている点が確認できた。
+- 総説側の結論として、**血液バイオマーカーや日常診療で使える認知機能テストバッテリーの開発が今後の優先課題**とされており、上記1のRBP4/CXCL10/NOX4研究のような動きは、まさにこの方向性に沿ったものと理解できる。
+- →記事ネタ:新規性は薄いが、「世界の獣医学界で犬の認知症の診断基準づくりが急速に進んでいる」という全体像を裏付ける補強資料として、複数記事の出典に併記できる。
+- 出典:
+  - [Diagnosis of Canine Cognitive Dysfunction Syndrome: A Narrative Review (Veterinary Sciences, 2025)](https://doi.org/10.3390/vetsci12080781)
+  - [同上(PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12390195/)
+  - [Evidence-Based Clinical Management of Canine Cognitive Dysfunction Syndrome (Animals, 2026)](https://www.mdpi.com/2076-2615/16/7/1114)
+- 要検証:両レビューとも本文全文は未精査(検索結果の抄録・要約ベース)。個別の数値記述を記事に使う場合は原文での確認が望ましい。
