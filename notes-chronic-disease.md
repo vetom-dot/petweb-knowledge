@@ -1,6 +1,6 @@
 # 慢性疾患管理 知識ノート
 
-最終更新: 2026-08-02
+最終更新: 2026-08-16
 
 対象:高齢犬・高齢猫に多い慢性疾患(慢性腎臓病・心臓病・変形性関節症・疼痛管理・がん)、および老齢医学全般(フレイル・多疾患併存・健康的加齢)。
 本ノートは飼い主向け記事の材料であり、一般的な情報提供にとどめる。個体を特定した診断・治療・処方の代わりにはならず、断定的な治療推奨はしない(獣医師法18条の趣旨に沿う)。「一般的にはこう言われている」調で整理。
@@ -233,3 +233,24 @@
   - [FDA approves anemia drug for cats with chronic kidney disease - AVMA](https://www.avma.org/news/fda-approves-anemia-drug-cats-chronic-kidney-disease)
   - [Treatments for Nonregenerative Anemia Associated with CKD in Cats - Today's Veterinary Practice](https://todaysveterinarypractice.com/pharmacology/treatments-for-nonregenerative-anemia-associated-with-ckd-in-cats/)
 - →記事ネタ:「猫の腎臓病、貧血が出てきたら——新しい飲み薬の選択肢と、数値で見る治療のタイミング」。本ノート冒頭のIRISステージング解説記事と組み合わせて、「ステージが進んだらどうなる?」という後半パートとして構成できる。国内未承認の可能性がある薬なので、期待を煽らない書き方に注意。
+
+---
+
+## 2026-08-16 追記:犬の変形性関節症、新しい抗NGF抗体「イゼニベトマブ(Lenivia)」が欧州・英国・カナダで承認 — Librela/Solensiaとは結合部位が異なる新薬
+
+- 本ノート「変形性関節症(OA)」章で紹介した抗NGF抗体製剤(フルネベトマブ=Solensia、ベジンベトマブ=Librela)に続く**3番目の抗NGF抗体医薬品**として、Zoetis社の**イゼニベトマブ(izenivetmab、製品名Lenivia)**が登場した。犬の変形性関節症の疼痛緩和を適応とする注射薬で、**2025年11月に欧州委員会(EC)がEU圏での販売承認を付与**、その後**カナダ(Health Canada)でも承認**され、**2026年5〜6月に英国VMD(獣医医薬品局)が承認**、2026年にEUとカナダで発売が始まった、と複数の一次発表・業界メディアが報じている。
+- **既存薬との違い(位置づけの整理)**:Librela・Solensiaと同様、神経成長因子(NGF、痛み・炎症に関わる伝達物質)を標的とする抗体医薬だが、紹介記事によれば**イゼニベトマブはNGF上の既存の抗NGF抗体とは異なる部位(エピトープ)に結合する**設計とされる。投与間隔は**皮下注射で3か月に1回**(Librela/Solensiaは月1回)と、より投与頻度が少ない点が特徴として紹介されている。
+- **欧州の主要臨床試験(EU向け添付文書等より紹介されている数値、要検証)**:
+  - 主要な有効性試験(EU多施設試験)では、投与90日目時点で「疼痛重症度スコア(PSS)が1以上改善し、かつ疼痛による生活への支障スコア(PIS)が2以上改善」を治療成功と定義したところ、**イゼニベトマブ群で37.3%(255頭中95頭)、プラセボ群で22.6%(257頭中58頭)**が治療成功に該当したと報告されている。
+  - 効果発現の早さについても言及があり、**投与7日後の時点で、イゼニベトマブ群23.5%(268頭中63頭)、プラセボ群11.9%(269頭中32頭)**が治療成功基準を満たしたとされる。
+  - 欧州5か国37施設で実施された**270日間(9か月間)のフィールド試験**でも、安全性とともに可動性の改善・疼痛の軽減が確認された、と紹介されている。
+  - 安全性試験では、承認用量の最大6倍(3か月に1回×3回投与)、最大120倍(月1回×4回投与)相当の用量でも忍容性が確認され、免疫原性(抗薬物抗体の産生)は試験により4.2〜8.3%程度に見られたが安全性への明確な影響はなかった、との報告がある。
+- **記事化する際の注意**:上記の数値はEUでの承認審査・査読論文(Regulatory Toxicology and Pharmacology誌に安全性評価の論文掲載あり)や企業発表など一次情報に近いソースから紹介されているが、**日本国内での動物用医薬品としての承認・流通状況は今回確認できておらず、未確認**。米国での承認状況も今回の調査では確認できていない(要検証)。「海外で承認された新しい抗NGF抗体」という紹介にとどめ、Librela/Solensiaと同様、本ノート既出の有害事象報告(要検証扱い)についても触れておくと公平な記事になる。まだ市販されて日が浅く、長期の市販後安全性データは今後の蓄積待ちという位置づけで書くのが誠実。
+- 出典:
+  - [Zoetis Receives European Commission Marketing Authorization for Lenivia (izenivetmab) - Zoetis News](https://news.zoetis.com/press-releases/press-release-details/2025/Zoetis-Receives-European-Commission-Marketing-Authorization-for-Lenivia-izenivetmab-to-Reduce-Pain-Associated-with-Osteoarthritis-OA-in-Dogs/default.aspx)
+  - [Zoetis Launches Lenivia (izenivetmab injection) in Canada and the European Union - Zoetis News](https://news.zoetis.com/press-releases/press-release-details/2026/Zoetis-Launches-Lenivia-izenivetmab-injection-in-Canada-and-the-European-Union/default.aspx)
+  - [Long-acting drug for reducing canine OA pain receives European marketing authorization - dvm360](https://www.dvm360.com/view/long-acting-drug-for-relieving-canine-oa-pain-receives-european-marketing-authorization)
+  - [Novel therapy for managing canine OA pain gains momentum in global markets - dvm360](https://www.dvm360.com/view/novel-therapy-for-managing-canine-oa-pain-gains-momentum-in-global-markets)
+  - ['Milestone' as VMD approves Zoetis' Lenivia for OA - Vet Times](https://www.vettimes.com/news/vet-nursing/small-animal/milestone-as-vmd-approves-zoetis-lenivia-for-oa)
+  - [Laboratory safety evaluations of izenivetmab, a caninized anti-nerve growth factor monoclonal antibody, for three-month alleviation of osteoarthritic pain in dogs - PubMed](https://pubmed.ncbi.nlm.nih.gov/41895399/)
+- →記事ネタ:本ノート既出の「関節炎の新しい注射(抗NGF抗体)、"○件報告されている"という数字をどう読むか」の記事に、「実は選択肢が増えている(3種類目の抗NGF抗体)」という最新動向として追記できる。「新薬=優れている」と単純化せず、「投与頻度が減る利便性」と「市販後データがまだ少ない新しさゆえの注意」を両論併記するのが誠実。国内未承認である旨を必ず明記。

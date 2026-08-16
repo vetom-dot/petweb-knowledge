@@ -1,6 +1,6 @@
 # シニア栄養・食事 知識ノート
 
-最終更新: 2026-08-02
+最終更新: 2026-08-16
 担当テーマ: 高齢犬・高齢猫の栄養・食事・食欲不振への対応
 ※本ノートは一般的な情報提供の材料であり、個体を特定した診断・処方の代わりにはならない（獣医師法18条との整合）。記事化の際も「一般的にはこう言われている」調を維持し、特定製品の断定的推奨はしないこと。
 
@@ -174,3 +174,28 @@
   - [同上（PubMed）](https://pubmed.ncbi.nlm.nih.gov/39827310/)
   - [同上（PMC全文）](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12181554/)
 - →記事ネタ：「シニア犬猫の“脳のごはん”——オメガ3・SAMe・MCTなど話題の成分を、エビデンスの温度差つきで整理」。notes-cognition.mdのCDS関連記事と対にして、栄養面からのアプローチとして展開できる。猫のデータの少なさは正直に書くと信頼感が増す。
+
+---
+
+## 2026-08-16 追記：犬猫の肥満治療に「GLP-1」薬(いわゆる"ペット版オゼンピック")の研究が本格化 — まだ研究・治験段階
+
+### 猫向け:AKS-562c(Akston Biosciences)、コーネル大学主導の治験が進行中
+- ヒトの糖尿病・肥満治療薬として知られるGLP-1(グルカゴン様ペプチド-1)受容体作動薬を、犬猫の肥満治療に応用しようとする研究開発が2026年に入り複数報じられている。本ノートは「高齢期の体重管理」に関わる新しい動きとして記録する。**いずれも研究・治験段階であり、動物病院で処方できる薬ではない**点を最優先で明記する。
+- 猫向けでは、**Akston Biosciences社**が開発する週1回投与のGLP-1 Fc融合タンパク質候補「**AKS-562c**」について、**2026年のACVIMフォーラム(米国獣医内科学会)で発表されたデータ**が紹介されている。12週間の試験で、忍容性は良好、治療関連の毒性や治療誘発性の抗薬物抗体は検出されず、試験した3種のGLP-1候補の中で食欲(摂食量)の減少効果が最も大きく持続的だった、との報告がある。
+- 現在、**コーネル大学主導**(Patrick Carney獣医師・PhDが指揮)で、飼い主所有の猫を対象とした臨床試験が進行中。過体重の猫への栄養管理の補助としての安全性・有効性を評価する目的で、試験期間は約11週間、目標登録数70頭(最大140頭まで拡大可能)という設計が紹介されている。
+- 別のアプローチとして、**OKAVA Pharmaceuticals社**が、最長6か月間薬剤を放出し続けるインプラント型製剤「**MEOW-1**」の治験を進めている、との報道もある(インプラントの詳細な作用機序・対象動物種の詳細は今回未確認・要検証)。
+- 背景として、米国のペット肥満予防協会(APOP)の2022年調査では、米国の猫の61%・犬の59%が「体重過多〜肥満」と評価されたと紹介されており、**肥満は変形性関節症・糖尿病・心肺疾患・一部のがんのリスクを高め、寿命を縮める要因**として位置づけられている(本ノート・notes-chronic-disease.mdのOA/糖尿病の記載とも接続する)。
+
+### 犬向け:ゴールデン・レトリーバーでのリラグルチド小規模試験(2025年、JVIM)
+- 犬については、ヒトの2型糖尿病・肥満治療薬として既に使われている**リラグルチド(GLP-1受容体作動薬)**を用いた小規模な臨床試験が2025年にJournal of Veterinary Internal Medicine誌に掲載されたと紹介されている。
+- 試験デザイン:8〜10歳の避妊・去勢済みゴールデン・レトリーバー21頭を7頭ずつ3群に分け、(1)健康体重を維持し通常食のみの群、(2)肥満でカロリー制限食のみの群、(3)肥満でカロリー制限食+リラグルチド1日1回皮下注射(1.2mg/頭)を40日間投与した群、を比較。
+- 結果:投与群では40日目にボディコンディションスコア(BCS)が改善し、投与開始前より体重が減少した。未治療の肥満群と比較すると**投与群は40日目時点で体重が約13%低かったが、統計学的な有意差はなかった**(小規模・短期間の試験である点に留意)。
+- 記事化する際の注意:いずれも「研究段階」「治験段階」であり、ヒト用GLP-1薬(オゼンピック等)を自己判断で犬猫に転用することは、用量・安全性が確立していない上に違法な目的外使用にあたりうるため、**絶対に推奨しない**という一文を必ず添える。「ペット版オゼンピック」というキャッチーな言葉が先行し期待が煽られやすいテーマなので、「まだ承認された治療ではない」という線引きを繰り返し明記するのが誠実な書き方。
+- 出典：
+  - [Investigational drug shows promise for treating feline obesity - dvm360](https://www.dvm360.com/view/investigational-drug-shows-promise-for-treating-feline-obesity)
+  - [Cornell launches clinical trial of once-weekly GLP-1 therapy for feline weight management - dvm360](https://www.dvm360.com/view/cornell-launches-clinical-trial-of-once-weekly-glp-1-therapy-for-feline-weight-management)
+  - [Akston Initiates Clinical Trial of Once-Weekly GLP-1 Weight-Management Therapy for Cats - PR Newswire](https://www.prnewswire.com/news-releases/akston-initiates-clinical-trial-of-once-weekly-glp-1-weight-management-therapy-for-cats-302625679.html)
+  - [Breakthrough GLP-1 implant promises major weight-loss benefits for pets - Fox News](https://www.foxnews.com/health/breakthrough-glp-1-implant-promises-major-weight-loss-benefits-pets)
+  - [Liraglutide as a novel therapeutic for overweight in canines: A clinical study - PubMed](https://pubmed.ncbi.nlm.nih.gov/40436366/)
+  - [New hope for dog obesity: What the latest research means - Parsemus Foundation](https://www.parsemus.org/2026/08/new-hope-for-dog-obesity-what-the-latest-research-means/)
+- →記事ネタ：「犬猫にも“オゼンピック”の時代が来る?——GLP-1肥満治療薬の"いま"を誠実に伝える」。話題性は高いテーマなので、「まだ治験段階」「自己判断で人間の薬を与えるのは絶対NG」という注意喚起の記事として需要がありそう。本ノート既出の肥満・体重管理の基本(食事管理・運動)とセットで、「特効薬待ちにせず今できることから」という着地にすると実用的。
