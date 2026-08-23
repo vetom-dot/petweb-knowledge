@@ -206,3 +206,23 @@
   - [Owner-reported experiences are similar for dogs experiencing euthanasia or unassisted death: evaluation of the Dog Aging Project's End of Life Survey free-text responses (JAVMA 264(3), 2026)](https://avmajournals.avma.org/view/journals/javma/264/3/javma.25.07.0464.xml)
   - [Dog Aging Project Studies Offer Insight Into How Owners Experience Pet Loss - Texas A&M Vet Med](https://vetmed.tamu.edu/news/press-releases/dog-aging-project-pet-loss-grief-study/)
 - 要検証:JAVMA本文(自由記述の具体的なテーマ分類、統計的有意差の検定結果)は検索結果・プレスリリースベースの整理にとどまり、原文での確認が望ましい。
+
+---
+
+## 2026-08-23 追記:猫専用の新しいQOL評価尺度「FelQoL」が開発・検証(Journal of Feline Medicine and Surgery, 2026)
+
+- 本ノート1章で紹介したHHHHHMMスケールやLap of LoveのQOLスケールは、いずれも犬猫共通・簡易的な採点シート形式のものだった。これに対し、**猫に特化した、より学術的な検証プロセスを経た新しいQOL質問票「FelQoL(Feline Quality of Life)」**が2026年に発表された。
+- 開発したのは、Mars Veterinary Health傘下のWaltham Petcare Science Instituteを中心とするグループで、Royal Canin・ブリストル大学(英)も参加。**米国・英国の飼い主1,324名分のデータ**を用いて開発・検証されている。
+- 特徴:
+  - 身体面・情緒面を含む**7つの次元**で猫のQOLを評価する設計。
+  - 飼い主が**10分程度で回答できる**ことを想定した長さ・構成になっている。
+  - 検証の結果、猫の年齢・健康状態・生活環境などのちがいに応じてスコアが妥当な形で変化する(=既知の臨床的傾向と一致する)ことや、同じ猫を再評価した際の一貫性(再現性)が確認されたという。
+- 発表は2部構成の論文(Part 1:開発・妥当性検証/Part 2:臨床での実用性評価の初期検討)として、Journal of Feline Medicine and Surgery誌に掲載された。
+- 想定される使われ方として、**飼い主が自宅で愛猫のQOLを継続的に把握するための道具**であると同時に、**診察室での身体検査を補完する情報として獣医療者が活用する**ことも意図されている、と紹介されている。猫は不調を隠す傾向が強い動物とされ、飼い主の日常観察を構造化して拾い上げる意義が強調されている。
+- 位置づけ:本ノート既出のHHHHHMM・Lap of Loveスケールが「終末期が近づいた段階での意思決定支援」を主眼にしているのに対し、FelQoLは**終末期に限らず、慢性疾患を持つ猫や健康な高齢猫も含めた、より幅広い場面でのQOLモニタリング**を意図している点が異なる(要検証:適用年齢・疾患の範囲について、本ノートでは二次情報止まりで原論文の対象基準までは未確認)。
+- →記事ネタ:「猫の“いつもと違う”を見える化する新しい物差し」という切り口。HHHHHMM(終末期の意思決定用)とFelQoL(日常のモニタリング用)を「使う場面が違う2つの物差し」として整理し、飼い主が両方を知っておく価値を伝える記事に使える。ただし尺度の項目本文そのものは今回確認できておらず、質問文の直接引用は避けること。
+- 出典:
+  - [A new generic feline quality of life (FelQoL) questionnaire: part 1 – development and validation - Journal of Feline Medicine and Surgery, 2026](https://doi.org/10.1177/1098612X261448700)
+  - [A new generic feline quality of life (FelQoL) questionnaire: part 2 – initial evaluation of clinical utility - Journal of Feline Medicine and Surgery, 2026](https://journals.sagepub.com/doi/10.1177/1098612X261447559)
+  - [Breakthrough in Feline Welfare: New Tool for Assessing Cat Wellbeing is Scientifically Validated - PR Newswire](https://www.prnewswire.com/news-releases/breakthrough-in-feline-welfare-new-tool-for-assessing-cat-wellbeing-is-scientifically-validated-302815770.html)
+- 要検証:論文本文(7次元の具体的な項目内容、統計的な検証数値)は未確認。二次情報(プレスリリース・要約)ベースの整理にとどまる。日本語での紹介・翻訳版の有無も今回未確認。
