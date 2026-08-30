@@ -254,3 +254,34 @@
   - ['Milestone' as VMD approves Zoetis' Lenivia for OA - Vet Times](https://www.vettimes.com/news/vet-nursing/small-animal/milestone-as-vmd-approves-zoetis-lenivia-for-oa)
   - [Laboratory safety evaluations of izenivetmab, a caninized anti-nerve growth factor monoclonal antibody, for three-month alleviation of osteoarthritic pain in dogs - PubMed](https://pubmed.ncbi.nlm.nih.gov/41895399/)
 - →記事ネタ:本ノート既出の「関節炎の新しい注射(抗NGF抗体)、"○件報告されている"という数字をどう読むか」の記事に、「実は選択肢が増えている(3種類目の抗NGF抗体)」という最新動向として追記できる。「新薬=優れている」と単純化せず、「投与頻度が減る利便性」と「市販後データがまだ少ない新しさゆえの注意」を両論併記するのが誠実。国内未承認である旨を必ず明記。
+
+---
+
+## 2026-08-30 追記:Librela(ベジンベトマブ)のEU添付文書に「関節の有害事象」が追加／Dog Aging Projectの大規模メタボローム研究(犬とヒトで死亡と関連する代謝物パターンが類似)
+
+### 1. Librela(抗NGF抗体)、EUで添付文書改訂 — 「関節の腫れ・痛み・関節炎」を新たに有害事象として明記
+
+- 本ノート「変形性関節症(OA)」章、および2026-07-26追記で紹介した抗NGF抗体製剤の有害事象について、EU規制当局による**公式な添付文書(製品情報)改訂**が2026年に進んでいることが確認できたので追記する。
+- **欧州医薬品庁(EMA)獣医用医薬品委員会(CVMP)は2026年3月10〜12日の会合で**、Librela(ベジンベトマブ)の販売承認保持者(Zoetis)による安全性データの包括的レビューと、筋骨格系に関する疑わしい有害事象報告の評価に基づき、**添付文書の「使用上の特別な注意」(3.5項)と「有害事象」(3.6項)のセクションに、Librela投与後に生じうる非常にまれ(very rare)な筋骨格系の有害事象に関する情報を追加するよう勧告**した。
+- その後、**2026年5月19〜21日のCVMP会合で、この安全性シグナル管理プロセスの結果を反映した添付文書変更(バリエーション)について肯定的意見が採択**された。具体的には、**「関節の腫れ(Joint swelling)」「関節の痛み(Joint pain)」「骨・関節障害(Bone and Joint disorder)」「関節炎(Arthritis)」を非常にまれな有害事象として追加**。あわせて、投与後に新たな、または増悪した関節の腫れ・痛みが見られた犬については、**追加の精査(diagnostics)を検討し、症例ごとの判断で投与中止を検討する**よう獣医師向けのアドバイスが加えられた。
+- 本ノート既出(2026-07-26追記)の有害事象の集計(EU・米国それぞれ1万件超〜3千件超)は神経症状・腎泌尿器・消化器症状が中心の紹介だったが、今回の添付文書改訂は「筋骨格系」に焦点を当てた新しい切り口であり、本ノート既出のJAVMA論文(bedinvetmabと急速進行性OAの関連への懸念)と符合する形で、規制当局が公式に添付文書へ反映した点に意味がある。
+- 記事化する際の注意: あくまで**EUの添付文書改訂**であり、日本国内での添付文書の扱い・記載内容は今回確認できておらず未確認。断定的に「危険な薬」と煽るのではなく、「新しい薬ほど、市販後の安全性情報が継続的にアップデートされる」という中立的なリテラシー啓発の文脈で紹介するのが適切。
+- 出典:
+  - [Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 10-12 March 2026 - EMA](https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-10-12-march-2026)
+  - [Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 19-21 May 2026 - EMA](https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-19-21-may-2026)
+  - [Update to the Product Information of Librela Recommended - Paul-Ehrlich-Institut(ドイツ連邦当局、通知PDF)](https://www.pei.de/SharedDocs/Downloads/EN/newsroom-en/notification/260401-librela-update-product-information.pdf?__blob=publicationFile&v=2)
+- →記事ネタ:「Librela(抗NGF抗体)、EUで添付文書が更新——新たに追記された『関節の有害事象』とは」。本ノート既出の有害事象報告件数の記事、抗NGF抗体3種比較(Lenivia)の記事と組み合わせて、「新薬は市販後もデータが更新され続ける」というリテラシー啓発の文脈で使いやすい。
+
+### 2. Dog Aging Projectの大規模メタボローム研究:犬とヒトで「死亡と関連する代謝物パターン」が類似
+
+- 本ノート「多疾患併存(multimorbidity)と老化研究(Geroscience)の動向」章に関連し、2026年に発表されたDog Aging Project(DAP)の新しい研究が確認できたので追記する。
+- DAPの精密コホート(Precision Cohort)に参加する犬937頭の長期追跡データを用いた生存解析で、**血漿中の代謝物(アシルカルニチン類、翻訳後修飾アミノ酸[ptmAA]など)のうち全体の3分の1超が加齢と関連**していることが分かった。さらに、**個々の代謝物が全死亡リスクに与える影響の方向性(リスクを上げる/下げる)が、ヒトで過去に報告されてきたパターンと強い正の相関を示した**と報告されている。
+- 研究チーム(テキサスA&M大学などDog Aging Project関連機関)は、これを「犬がヒトの老化生物学を理解するための実験動物モデルとして有望であることを示す一つの根拠」と位置づけている、と紹介記事は伝えている。犬は人と同じ生活環境で暮らし、老化に伴う慢性疾患の種類・分布がヒトに近いことが背景にあるとされる。
+- **2026年、Journals of Gerontology: Series A誌(Oxford Academic)に掲載**(論文名「Dogs and humans share biomarkers of mortality」、巻号81(4): glaf279、PubMed ID: 41429575)。
+- 記事化の注意: あくまで観察研究段階の相関関係であり、特定の代謝物の測定が飼い主向けの実用的な健康チェックとして使える段階ではない(臨床応用の見通しは未確認・要検証)。「愛犬の血液が人間の老化研究にも役立つかもしれない」という夢のある切り口ではあるが、「これで寿命がわかる」といった断定的な書き方は避ける。
+- 出典:
+  - [Dogs and humans share biomarkers of mortality - The Journals of Gerontology: Series A, 81(4), glaf279 (Oxford Academic)](https://academic.oup.com/biomedgerontology/article/81/4/glaf279/8402140)
+  - [同上(PubMed)](https://pubmed.ncbi.nlm.nih.gov/41429575/)
+  - [Dogs may hold surprising clues to human longevity - ScienceDaily](https://www.sciencedaily.com/releases/2026/08/260828082341.htm)
+  - [Dogs and humans are more alike than we thought, study finds - Texas A&M Today](https://stories.tamu.edu/news/2026/06/08/dogs-and-humans-are-more-alike-than-we-thought-study-finds/)
+- →記事ネタ:「愛犬の健康、実は人間の老化研究にも貢献している?——Dog Aging Projectの最新研究から」。notes-nutrition.md「8. 2024〜2026年の新しい研究・動向」やDog Aging Projectの給餌回数研究と組み合わせ、「うちの子の何気ない健康データが科学に貢献している」という参加型・応援型の切り口にできる。直接記事化するより、本ノート既出の老化研究(Geroscience)章の文脈補強として使うのが実用的。
