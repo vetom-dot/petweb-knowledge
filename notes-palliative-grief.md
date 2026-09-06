@@ -226,3 +226,36 @@
   - [A new generic feline quality of life (FelQoL) questionnaire: part 2 – initial evaluation of clinical utility - Journal of Feline Medicine and Surgery, 2026](https://journals.sagepub.com/doi/10.1177/1098612X261447559)
   - [Breakthrough in Feline Welfare: New Tool for Assessing Cat Wellbeing is Scientifically Validated - PR Newswire](https://www.prnewswire.com/news-releases/breakthrough-in-feline-welfare-new-tool-for-assessing-cat-wellbeing-is-scientifically-validated-302815770.html)
 - 要検証:論文本文(7次元の具体的な項目内容、統計的な検証数値)は未確認。二次情報(プレスリリース・要約)ベースの整理にとどまる。日本語での紹介・翻訳版の有無も今回未確認。
+
+---
+
+## 2026-09-06 追記:安楽死の意思決定への関与度と悲嘆の強さの関連(ポルトガルの横断研究)、ACVHPM専門医制度化の進捗
+
+### 1. 安楽死の意思決定プロセスへの関与度が、飼い主の悲嘆の強さと関連するという研究(Journal of Veterinary Behavior, 2025年)
+
+- ポルトガルの研究グループ(Silva, Santos, Barbosa)による横断研究が、Journal of Veterinary Behavior誌(2025年、Vol.79, pp.60-67)に掲載された。
+- ペットを亡くした飼い主123名(女性79.3%)を対象に、Pet Bereavement Questionnaire(ペット死別質問票)とPersistent Complex Bereavement Inventory(遷延性複雑死別インベントリ)、および死別の状況に関する質問への回答を分析している。
+- 主な報告:
+  - **女性の飼い主は、悲嘆の強さ・遷延性悲嘆の水準がともに高い傾向**があった。
+  - **安楽死で看取った飼い主は、安楽死を選ばなかった飼い主に比べて罪悪感は低かったが、悲嘆自体はより強かった**と報告されている(本ノート既出2026-08-09追記のDog Aging Project調査「安楽死でも自然死でも悲嘆の重さは同程度」という結果とはやや異なる切り口の報告であり、対象集団・尺度が異なる点に注意。単純に優劣を比較せず、両論を紹介するのが適切)。
+  - **獣医師から安楽死の意思決定プロセスに「疎外された(除外された)」と感じたこと、安楽死のタイミングが早すぎたのではという後悔、それに伴う罪悪感**が、悲嘆反応の強さと有意な正の相関を示した。飼い主の年齢が高いことも悲嘆の強さと相関していたという。
+- 著者らは、**飼い主が意思決定プロセスにどれだけ関与できたと感じるか、獣医療者からどれだけ支えられていると感じるかが、その後の悲嘆の経過に影響しうる**と結論づけている。これは本ノート3章のAVMAの枠組み(意思決定支援を終末期医療の柱の一つとする考え方)を、実証研究の形で裏付ける知見といえる。
+- →記事ネタ:「安楽死を決めるとき、獣医師と『一緒に決めた』と感じられることの意味」という切り口。飼い主向けには「わからないことは遠慮せず聞いていい」「決定を一人で背負わなくていい」というメッセージにつなげられる。獣医師側の対応の質を問う内容にはせず、飼い主が安心して質問できる雰囲気づくりの提案に留めるのが適切。
+- 出典:
+  - [Euthanasia and prolonged grief: A cross-sectional study with bereaved pet owners - Journal of Veterinary Behavior, 79, 60-67 (2025)](https://www.sciencedirect.com/science/article/pii/S1558787825000449)
+  - [同上(ResearchGate抄録)](https://www.researchgate.net/publication/391439412_Euthanasia_and_Prolonged_Grief_A_Cross-Sectional_Study_with_Bereaved_Pet_Owners)
+- 要検証:本文全文は未確認、検索結果の抄録・紹介ベースの整理。サンプルの募集方法(ポルトガル国内か等)や統計的有意水準の詳細は原文での確認が望ましい。
+
+### 2. ACVHPM(米国獣医ホスピス・緩和医療専門医会)の専門分野認定申請:パブリックコメント期間が終了、正式決定は今後
+
+- 本ノート既出(2026-07-26追記)のACVHPMによる正式な獣医専門分野(Recognized Veterinary Specialty Organization)としての認定申請について、ABVS(American Board of Veterinary Specialties)によるパブリックコメント募集期間(〜2026年8月13日)が終了したことを確認した。**2026年9月上旬時点で、ABVSによる正式な認定の可否は公表されておらず、審査は継続中とみられる(未確認)**。
+- 制度の枠組みについて、複数の紹介記事から次の点が確認できた:仮に(暫定的な)認定が得られたとしても、**ABVSに対して少なくとも4年間、毎年進捗を報告する必要があり、その後に完全な認定(正式な専門分野としての承認)を申請できる**という段階的なプロセスになっているという。認定されれば、獣医療で初めて「終末期ケア・緩和ケア」を専門とする正式な認定専門医(board-certified specialty)が誕生することになる。
+- 本ノート既出のIAAHPC認定資格(CHPV/CHPT/CHPA)とは異なる、より公的な専門医制度化の動きであることに変わりはないが、**実現までには数年単位の時間がかかる見通し**であることが今回の調査でより明確になった。記事化の際は「まだ申請・審査段階であり、数年がかりのプロセスの途中」という時間軸を必ず明記する。
+- 関連して、IAAHPC(国際アニマルホスピス緩和ケア協会)の**年次バーチャルカンファレンスが2026年9月24日〜27日に開催予定**であることも確認できた。疼痛管理・安楽死の手技・終末期疾患の医学的管理などが主要テーマとして紹介されている。
+- 出典:
+  - [Comments sought on proposed new specialty - AVMA](https://www.avma.org/blog/comments-sought-proposed-new-specialty)
+  - [The Hardest Moments in Veterinary Medicine May Finally Have Their Own Specialty - myvetcandy(2026年5月13日)](https://www.myvetcandy.com/news/2026/5/13/the-hardest-moments-in-veterinary-medicine-may-finally-have-their-own-specialty)
+  - [Growing Interest in a Veterinary EOL Specialty College and How it Relates to Euthanasia - CAETA](https://caetainternational.com/growing-interest-in-a-veterinary-eol-specialty-college-and-how-it-relates-to-euthanasia/)
+  - [Should we have a Recognized Specialty in Veterinary Palliative and Hospice Care? - SkeptVet(2026年6月)](https://skeptvet.com/2026/06/should-we-have-a-recognized-specialty-in-veterinary-palliative-and-hospice-care/)
+  - [2026 Veterinary Conference(IAAHPC年次バーチャルカンファレンス案内)](https://iaahpc.org/2026-conference/)
+- 要検証:ABVSの最終的な審査結果・スケジュールは今回確認できておらず、今後の追跡調査が必要。「4年間の年次報告」という段階的プロセスの詳細も二次情報ベースであり、ACVHPM・ABVS公式文書での確認が望ましい。

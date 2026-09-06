@@ -285,3 +285,26 @@
   - [Dogs may hold surprising clues to human longevity - ScienceDaily](https://www.sciencedaily.com/releases/2026/08/260828082341.htm)
   - [Dogs and humans are more alike than we thought, study finds - Texas A&M Today](https://stories.tamu.edu/news/2026/06/08/dogs-and-humans-are-more-alike-than-we-thought-study-finds/)
 - →記事ネタ:「愛犬の健康、実は人間の老化研究にも貢献している?——Dog Aging Projectの最新研究から」。notes-nutrition.md「8. 2024〜2026年の新しい研究・動向」やDog Aging Projectの給餌回数研究と組み合わせ、「うちの子の何気ない健康データが科学に貢献している」という参加型・応援型の切り口にできる。直接記事化するより、本ノート既出の老化研究(Geroscience)章の文脈補強として使うのが実用的。
+
+---
+
+## 2026-09-06 追記:IRIS CKDガイドライン2026年版のステージング変更点がより具体的に判明(犬のクレアチニン基準見直し、SDMAが必須項目に)
+
+- 本ノート冒頭「猫の慢性腎臓病(CKD)/ IRISステージング」章、および2026-08-02追記で紹介したIRIS(International Renal Interest Society)のCKDガイドライン2026年版改訂について、貧血管理以外の**ステージング(病期分類)基準そのものの変更点**がより具体的に確認できたので追記する(獣医師向け解説サイト・専門メディアの紹介記事ベース。IRIS公式サイトの一次確認は今回未達につき要検証)。
+- 確認できた主な変更点:
+  - **犬のクレアチニン値によるステージ区分の見直し**:ステージ2の範囲が拡大され、ステージ3の範囲が狭められた、と紹介されている。これにより、ステージ間の重なり(境界付近での判定のばらつき)を減らし、個体間での判定の一貫性を高める狙いがあるという。**猫については、従来のステージ区分がおおむね維持されている**とのこと。
+  - **SDMA(対称性ジメチルアルギニン)の位置づけの変化**:これまで「補助的・任意の指標」として扱われることもあったSDMAが、2026年版では**クレアチニンと並ぶステージング判定の必須項目(不可欠な構成要素)**として明確に位置づけられた、と紹介されている。「クレアチニン値だけで単独判断すべきではない」という点が2026年版のポイントの一つとされる。
+  - **クレアチニンとSDMAの判定が食い違う場合の考え方**:両者の結果が一致しない場合、**再検査で数値の持続性を確認したうえで、より進行した病期を示す方の指標を採用し、臨床所見と合わせて総合的に判断する**という考え方が示されている、との紹介がある。
+  - 血中SDMA濃度が持続的に**14μg/dL超**である場合、早期のCKD診断に用いうる、という基準も紹介されている(既存の基準値の再確認レベルの情報であり、2026年版での変更点かは要検証)。
+  - ステージング全体としては、クレアチニン・SDMAに加え、**UPC(尿蛋白/クレアチニン比)・血圧も組み合わせて総合的に評価し、病状の変化に応じて再評価を行う**ことが強調されている。
+- 日本語の獣医師監修記事でも、同様の要点(ステージ2拡大・ステージ3縮小、SDMAが判定に不可欠になったこと)を紹介する解説が2026年に公開されており、国内の臨床現場でも同様の理解が広がりつつあるとみられる。
+- 本ノート既出(2026-08-02追記)では「診断・ステージングの枠組み自体は2023年版から大きな変更はない」と記載していたが、今回確認できた内容によれば**ステージング基準そのものにも実質的な変更があった**ことになる。前回記載を補足・修正する位置づけとして本追記を残す。
+- 記事化の注意:具体的な数値カットオフ(クレアチニンの正確な範囲)は今回、二次情報止まりで確認できておらず、**本ノートでは具体的な数値を断定的に記載しない**。「シニア猫・シニア犬の腎臓の数値、去年と評価基準が変わっているかもしれない」という切り口で、「健診の数値は必ずかかりつけ医に評価してもらう」ことを促す記事に留めるのが適切。
+- 出典:
+  - [The 2026 IRIS CKD Guidelines Are Here: What Every Veterinarian Needs to Know - VET Diagnostix](https://vetdiagnostix.com.ph/news/the-2026-iris-ckd-guidelines-are-here-what-every-veterinarian-needs-to-know/)
+  - [IRIS Guidelines(公式サイト、2026年改訂版)](https://www.iris-kidney.com/iris-guidelines-1)
+  - [IRIS Staging of CKD (Modified 2026)(PDF)](https://static1.squarespace.com/static/666b9ecb4064a156963b4162/t/6a53129b031ea43169a7a89f/1783829156676/IRIS_staging_guidelines+2026.pdf)
+  - [IRIS CKD Staging Guidelines for Cats and Dogs - IDEXX](https://www.idexx.com/en/veterinary/reference-laboratories/sdma/sdma-iris/)
+  - [【看護師が解説】IRISによる慢性腎臓病(CKD)の治療に関するガイドラインが改定されました - 厚別中央通どうぶつ病院](https://www.ac-animalhospital.com/archives/9600)
+  - [【獣医師が解説】犬と猫の慢性腎臓病(CKD)|IRISステージ1〜4・SDMA・蛋白尿・血圧のアップデート〜2026年版〜 - 厚別中央通どうぶつ病院](https://www.ac-animalhospital.com/archives/9683)
+- 要検証:IRIS公式サイト・PDF原文への直接アクセスができておらず、いずれも専門メディア・獣医師監修ブログ等の二次紹介ベースの整理にとどまる。具体的なクレアチニンのカットオフ数値は原文での確認が望ましい。

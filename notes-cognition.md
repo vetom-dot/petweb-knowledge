@@ -283,3 +283,35 @@
   - [Canine Cognitive Dysfunction from the Perspective of Dog Owners: Recognition, Care, and Emotional Challenges (Animals, 16(7):1117, 2026年4月5日)](https://doi.org/10.3390/ani16071117)
   - [同上(PubMed)](https://pubmed.ncbi.nlm.nih.gov/41976095/)
 - 要検証:いずれも検索結果の抄録・二次紹介ベースの整理。インタビューの具体的な発言例や統計的な詳細は原文未確認。
+
+---
+
+## 2026-09-06 追記:犬の血液脳関門・グリア細胞の病理に関する新知見(コロラド州立大学)、包括的レビュー2本
+
+### 1. CCD犬の脳で「神経毒性グリオーシス」と血液脳関門の機能不全を確認(Frontiers in Aging, 2026年6月)
+
+- 米コロラド州立大学(Department of Environmental and Radiological Health Sciences、Brain Research Center、Center for Healthy Aging等)のグループによる研究が、2026年6月2日付でFrontiers in Aging誌に掲載された(doi: 10.3389/fragi.2026.1829442)。
+- CCD(犬の認知機能不全)がある犬とない犬の脳組織を比較し、以下が報告されている(病理・基礎研究レベルの知見):
+  - ヒトの神経変性疾患で見られるのと同様の**「神経毒性グリア細胞」のパターンに一致するグリア細胞の形態変化**。
+  - **アストロサイト活性化マーカー(S100β・C3)の増加**。
+  - 血液脳関門を構成するタイトジャンクションタンパク質**クローディン5(claudin-5)の発現低下**。
+  - 血管周囲のアクアポリン4(AQP4)発現が脳の部位によって異なるパターンで変化していたこと(部位依存的な変化)。
+- 著者らは、これらの所見が「グリア細胞と血管内皮細胞の機能不全が絡み合った神経血管ユニットの変調」がCCDの病態に関与していることを示すもの、と結論づけている。本ノート既出(2026-07-12・07-26追記)のアミロイドβ・グリア細胞・血漿メタボロミクス研究と同じ流れで、**犬をアルツハイマー病の自然発症モデルとして活用する研究**の一環と位置づけられる。
+- **注意:あくまで脳組織を用いた基礎・病理研究であり、診断法や治療法に直結するものではない**。血液脳関門の機能異常という切り口は、本ノート既出のMRIによる血液脳関門透過性変化の研究(2025年、PMC12106434)とも関連するテーマ。
+- →記事ネタ:単独記事にはせず、「犬の認知症の"脳の中"で何が起きているのか、研究が少しずつ明らかにしている」という基礎研究紹介の一段落として、他のCCD記事に添える使い方が適切。「血管に効く薬ができた」といった誤解を招く書き方は厳禁。
+- 出典:
+  - [Increased neurotoxic gliosis and blood-brain barrier dysregulation in canine cognitive dysfunction syndrome (CCD) - Frontiers in Aging, 2026](https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2026.1829442/full)
+  - [同上(PubMed)](https://pubmed.ncbi.nlm.nih.gov/42311341/)
+- 要検証:本文全文は未精査(検索結果の要約ベース)。対象頭数・統計的有意差の詳細は原文での確認が望ましい。
+
+### 2. CCDの機序・バイオマーカーに関する包括的レビュー2本(2026年)
+
+- 本ノート既出(2026-08-09追記)の2本のレビューに続き、2026年にさらに2本の総説が発表されていることが確認できた。
+  - 「Canine Cognitive Dysfunction: An Updated Review of Mechanisms, Biomarkers, and Clinical Management」(Frontiers in Veterinary Science, 2026年、Yang・Zhou・Li・Wang・Xiu・Yang・Liuら)。疫学・臨床像・診断・病態・予防・管理を総覧し、CCDを比較神経変性疾患研究のモデルとして位置づける内容、と紹介されている。
+  - 「Advances in biomarker discovery for canine cognitive dysfunction: a comprehensive structured narrative review and future perspectives」(2026年、PubMed ID 42566137)。血液・脳脊髄液バイオマーカー研究の進展を整理した総説。
+- いずれも、本ノート既出のアミロイドβ・NfL(神経フィラメント軽鎖)・GFAP(グリア線維性酸性タンパク)といったバイオマーカー候補や、JAVMA CCDS Working Groupガイドラインの診断枠組みを踏まえた内容と推測されるが、**本文は未確認で、検索結果の抄録・紹介ベースの整理にとどまる**(要検証)。
+- →記事ネタ:新規性は薄いが、「世界中でCCDの研究レビューが相次いで発表されている」という研究の活発さを裏付ける補強資料として使える。
+- 出典:
+  - [Canine Cognitive Dysfunction: An Updated Review of Mechanisms, Biomarkers, and Clinical Management - Frontiers in Veterinary Science, 2026](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1948204/abstract)
+  - [Advances in biomarker discovery for canine cognitive dysfunction: a comprehensive structured narrative review and future perspectives - PubMed](https://pubmed.ncbi.nlm.nih.gov/42566137/)
+- 要検証:両レビューとも発行月・査読状況・詳細な結論は未確認。原文での確認が望ましい。
