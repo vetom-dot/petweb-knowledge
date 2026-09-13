@@ -308,3 +308,18 @@
   - [【看護師が解説】IRISによる慢性腎臓病(CKD)の治療に関するガイドラインが改定されました - 厚別中央通どうぶつ病院](https://www.ac-animalhospital.com/archives/9600)
   - [【獣医師が解説】犬と猫の慢性腎臓病(CKD)|IRISステージ1〜4・SDMA・蛋白尿・血圧のアップデート〜2026年版〜 - 厚別中央通どうぶつ病院](https://www.ac-animalhospital.com/archives/9683)
 - 要検証:IRIS公式サイト・PDF原文への直接アクセスができておらず、いずれも専門メディア・獣医師監修ブログ等の二次紹介ベースの整理にとどまる。具体的なクレアチニンのカットオフ数値は原文での確認が望ましい。
+
+---
+
+## 2026-09-13 追記:猫の変形性関節症、4種類目の抗NGF抗体「Portela(レルフォベトマブ)」が欧州・カナダで承認 — 猫用として最長の「3か月に1回投与」
+
+- 本ノート「変形性関節症(OA)」章で紹介してきた抗NGF抗体製剤(猫用フルネベトマブ=Solensia、犬用ベジンベトマブ=Librela、本ノート既出2026-08-16追記の犬用イゼニベトマブ=Lenivia)に続き、**猫用としては2剤目、抗NGF抗体全体では4剤目**となる新薬「**Portela(レルフォベトマブ、relfovetmab)**」の承認・発売が確認できたので追記する。Zoetis社が開発。
+- **2025年10月に欧州委員会(EC)が販売承認**、その後**Health Canada(カナダ)でも承認**され、**2026年にEU・カナダで商業発売が開始された**と、Zoetis社自身のプレスリリースが複数回にわたって発表している。
+- 既存薬との違い(位置づけの整理):Solensiaと同じくNGF(神経成長因子)を標的とする皮下注射の抗体医薬だが、**投与間隔が3か月に1回**とされ、月1回投与のSolensiaより間隔が長い(=通院頻度を減らせる可能性がある)点が特徴として紹介されている。犬用のLenivia(2026-08-16追記、同じく3か月に1回投与)と対をなす「猫版・長期間隔タイプ」という位置づけで理解できる。
+- 有効性・安全性(Zoetis発表ベース):**欧州での9か月間の実地試験(field trial)**でOA疼痛緩和の有効性が確認され、投与後早ければ3日目から改善がみられたと紹介されている。加えて、**IRIS CKDステージ1〜3の腎疾患を持つ猫でも忍容性が確認された**との説明があり、高齢猫でOAと慢性腎臓病(CKD)が併存するケースが多いこと(本ノート・CKD関連の既出記述参照)を踏まえると、臨床的な意味合いが大きい情報として記録しておく。
+- 記事化する際の注意:**今回確認できた情報はすべてZoetis社自身のプレスリリース・投資家向け発表であり、査読論文・規制当局の一次審査資料による数値の直接確認はできていない(要検証)**。日本国内での動物用医薬品としての承認・流通状況、米国での承認状況もいずれも今回の調査では確認できておらず未確認。本ノート既出のLibrela/Solensiaの有害事象報告(2026-07-26・2026-08-30追記)を踏まえ、「新しい選択肢が増えている一方、市販後の長期安全性データはこれから蓄積される段階」という中立的なトーンで紹介するのが適切。日本語でこのニュースを扱った記事は今回確認できなかった。
+- 出典:
+  - [Zoetis Receives European Commission Marketing Authorization for Portela® (relfovetmab) to Alleviate Pain Associated with Osteoarthritis in Cats - Zoetis News (2025年10月)](https://news.zoetis.com/press-releases/press-release-details/2025/Zoetis-Receives-European-Commission-Marketing-Authorization-for-Portela-relfovetmab-to-Alleviate-Pain-Associated-with-Osteoarthritis-in-Cats/default.aspx)
+  - [Zoetis Receives Health Canada Approval for Portela™(relfovetmab injection) - Zoetis News](https://news.zoetis.com/press-releases/press-release-details/2025/Zoetis-Receives-Health-Canada-Approval-for-Portelarelfovetmab-injection-to-Alleviate-Pain-Associated-with-Osteoarthritis-in-Cats/default.aspx)
+  - [Zoetis Launches Portela® (relfovetmab) in Canada and the European Union - Zoetis News (2026年)](https://news.zoetis.com/press-releases/press-release-details/2026/Zoetis-Launches-Portela-relfovetmab-in-Canada-and-the-European-Union/default.aspx)
+- →記事ネタ:「猫の関節痛治療、また新しい選択肢が」という定点観測的な記事。本ノート既出のLenivia(犬用)の記事と対にして、「抗NGF抗体は今、猫・犬それぞれで“長期間隔タイプ”が登場しつつある」という業界動向として整理できる。「腎臓が悪い猫にも使える可能性がある」という点は、高齢猫の飼い主にとって関心が高いはずだが、あくまで企業発表段階の情報である旨を必ず明記する。
