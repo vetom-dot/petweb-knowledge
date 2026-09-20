@@ -315,3 +315,41 @@
   - [Canine Cognitive Dysfunction: An Updated Review of Mechanisms, Biomarkers, and Clinical Management - Frontiers in Veterinary Science, 2026](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1948204/abstract)
   - [Advances in biomarker discovery for canine cognitive dysfunction: a comprehensive structured narrative review and future perspectives - PubMed](https://pubmed.ncbi.nlm.nih.gov/42566137/)
 - 要検証:両レビューとも発行月・査読状況・詳細な結論は未確認。原文での確認が望ましい。
+
+---
+
+## 2026-09-20 追記:犬の「前脚の歩幅」が認知機能低下の指標になりうるという研究、生涯の運動・飼い主との関わりが認知機能低下の重症度と関連するという調査
+
+### 1. 前肢(胸郭肢)の歩幅の短縮が、犬の認知機能低下と関連するという縦断研究(NC State、Frontiers in Veterinary Science, 2026年6月)
+
+- 米ノースカロライナ州立大学(NC State、Natasha J. Olby氏らのグループ)による研究が、Frontiers in Veterinary Science誌に発表された(doi: 10.3389/fvets.2026.1814017、タイトル「Thoracic limb stride length is associated with cognitive impairment in aging dogs」)。
+- **老齢犬88頭(平均年齢約12歳)**を対象とした縦断研究で、約6か月ごとに身体検査・神経学的検査・整形外科的検査・歩様(移動能力)評価・聴力検査・血液検査を継続的に実施している。
+- 主な報告:**前脚(胸郭肢)の歩幅が短いほど、認知機能テストのスコアが低い(=認知機能低下が進んでいる)**という関連が確認された。この関連は、年齢や併存する慢性疾患の影響を統計的に調整してもなお認められたという。一方で、**後脚(骨盤肢)の歩幅には同様の関連は見られなかった**。
+- 著者らは、歩様の変化と認知機能低下がともに、運動の計画・調整を担う**前頭皮質・小脳の機能低下**を反映している可能性がある、と解釈している。人の認知症でも歩行速度・歩幅の変化が早期のサインとして知られており、犬でも同様のパターンが見られたとの位置づけ。
+- **臨床的な意味合い**:歩幅の変化は飼い主が自宅でも気づきやすい客観的なサインになりうる一方、関節炎の痛みや頸部の問題など、認知機能低下以外の原因でも歩幅は短くなりうるため、**「前脚の歩幅が短くなった=認知症」と短絡させず、まず動物病院で原因を調べることが前提**となる、と紹介記事でも強調されている。
+- 本ノート既出の各種スクリーニングツール(DISHAA等、2章)は行動面の変化を評価するものだが、この研究は**歩様という身体面の指標が認知機能低下と結びつく可能性**を示した点で新しい切り口。ただし単一施設・88頭規模の研究であり、他施設での追試が望まれる(要検証)。
+- →記事ネタ:「愛犬の"歩き方"が、実は脳の健康のサインかもしれない」という切り口。DISHAAチェックリスト(本ノート2章)に加えて、「歩幅の変化」も観察ポイントとして紹介できる。ただし自己診断を促さず、「気になったら動画に撮ってかかりつけ医に見せる」といった具体的な行動を促す構成が望ましい。
+- 出典:
+  - [Thoracic limb stride length is associated with cognitive impairment in aging dogs - Frontiers in Veterinary Science, 2026](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1814017/full)
+  - [Stride Length is Marker for Cognitive Decline in Dogs - NC State News](https://news.ncsu.edu/2026/06/stride-cognitive-decline-dogs/)
+  - [Shorter strides can be an early warning sign of dementia in senior dogs, just as in people - Frontiers news](https://www.frontiersin.org/news/2026/06/25/frontiers-veterinary-science-geriatric-dogs-shorter-strides-early-warning-canine-dementia)
+  - [Watch How Your Senior Dog Walks. It Might Be an Early Sign of Dementia - myvetcandy](https://www.myvetcandy.com/news/2026/6/26/watch-how-your-senior-dog-walks-it-might-be-an-early-sign-of-dementia)
+- 要検証:本文全文(統計的有意水準の詳細、聴力検査など他の評価項目との関係)は今回未精査。二次情報・プレスリリースベースの整理にとどまる。
+
+### 2. 生涯の運動歴・飼い主との日常的な関わりが、犬の認知機能低下の重症度と関連するという国際的アンケート調査(ハンガリー・エトヴェシュ・ロラーンド大学、Frontiers in Veterinary Science, 2026年)
+
+- ハンガリーのエトヴェシュ・ロラーンド大学(ELTE)動物行動学講座・Family Dog Projectのグループによる研究が、Frontiers in Veterinary Science誌に発表された(doi: 10.3389/fvets.2026.1833531、タイトル「Hard-working or hardly working dogs stay young longer? Lifetime sports engagement, joint activity with the owner and breed type are associated with the severity of canine cognitive decline」)。
+- **7歳以上のシニア犬858頭**について、飼い主が回答する国際的なオンラインアンケート調査(ELTE・Family Dog Project、Morris Animal Foundation、AKC等のSNSを通じて拡散)を実施し、生涯の運動歴・飼い主との日常的な関わり・犬種特性と、犬用認知機能低下スコア(CCDスコア)との関連を分析している。
+- 主な報告:
+  - **生涯を通じてスポーツ・作業に従事してきた犬(高齢になっても現役で続けている犬を含む)は、CCDスコアが低い**(=認知機能低下が軽い)傾向が見られた。
+  - **飼い主との日常的な触れ合い・共同活動が多い犬も、CCDスコアが低い**傾向。
+  - 犬種特性による違いも見られ、**作業目的で選抜されてこなかった犬種(トイ種・雑種等)は、飼い主との日常的な関わりからより大きな恩恵を受ける**一方、**協調性・独立性を備えた使役犬種は、運動頻度が少なくてもCCDスコアが低い**傾向があったという。
+  - 飼い主が「健康・穏やかな気質」や「繁殖の質」を重視して犬を選んだ場合にも、CCDスコアが低い傾向が見られた。
+- 本ノート4章で既出のDog Aging Projectの知見(身体活動量とCCDリスクの関連、ただし相関であり因果は未確定)と同じ方向性の知見だが、**「生涯を通じた運動歴」「飼い主との関わりの質」「犬種特性」という3つの軸を組み合わせて分析した点が新しい**。ただし、この調査も**飼い主の回顧的な自己申告に基づくアンケート調査であり、「元気だから運動を続けられた」可能性(逆の因果)を排除できない横断的なデータ**である点に注意が必要(要検証)。
+- →記事ネタ:「老犬でも"現役"でいることが、脳の若さにつながるかもしれない」という切り口。ただし「運動させれば認知症を防げる」という断定は避け、「関連が示唆されている」というトーンに留める。本ノート既出のグループトレーニング研究(2026-08-23追記)と組み合わせ、「特別な運動でなくても、日々の関わりや続けられる活動があること自体に意味があるかもしれない」という飼い主に優しいメッセージにできる。
+- 出典:
+  - [Hard-working or hardly working dogs stay young longer? Lifetime sports engagement, joint activity with the owner and breed type are associated with the severity of canine cognitive decline - Frontiers in Veterinary Science, 2026](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1833531/full)
+  - [同上(PubMed)](https://pubmed.ncbi.nlm.nih.gov/42131431/)
+  - [同上(PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13161145/)
+  - [New study on how exercise can diminish dementia in dogs - Steve Dale's Pet World](https://stevedalepetworld.com/blog/can-exercise-and-play-help-prevent-dementia-in-dogs-new-study-offers-clues/)
+- 要検証:本文全文(統計的有意水準、犬種分類の詳細な基準)は今回未精査。二次情報・検索結果の要約ベースの整理にとどまる。
