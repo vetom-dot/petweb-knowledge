@@ -323,3 +323,35 @@
   - [Zoetis Receives Health Canada Approval for Portela™(relfovetmab injection) - Zoetis News](https://news.zoetis.com/press-releases/press-release-details/2025/Zoetis-Receives-Health-Canada-Approval-for-Portelarelfovetmab-injection-to-Alleviate-Pain-Associated-with-Osteoarthritis-in-Cats/default.aspx)
   - [Zoetis Launches Portela® (relfovetmab) in Canada and the European Union - Zoetis News (2026年)](https://news.zoetis.com/press-releases/press-release-details/2026/Zoetis-Launches-Portela-relfovetmab-in-Canada-and-the-European-Union/default.aspx)
 - →記事ネタ:「猫の関節痛治療、また新しい選択肢が」という定点観測的な記事。本ノート既出のLenivia(犬用)の記事と対にして、「抗NGF抗体は今、猫・犬それぞれで“長期間隔タイプ”が登場しつつある」という業界動向として整理できる。「腎臓が悪い猫にも使える可能性がある」という点は、高齢猫の飼い主にとって関心が高いはずだが、あくまで企業発表段階の情報である旨を必ず明記する。
+
+---
+
+## 2026-09-27 追記:iCatCareが猫の慢性腎臓病(CKD)診療の新しい合意ガイドラインを発表(2016年版の全面改訂)、犬の抗NGF抗体の有害事象を説明する新しい仮説論文
+
+### 1. 「2026 iCatCare consensus guidelines on the diagnosis and management of chronic kidney disease in cats」— IRISステージングを踏まえた診療全体の実務ガイドライン
+
+- 本ノートで継続的に紹介してきたIRIS(International Renal Interest Society)のCKDステージング改訂(2026-08-02・2026-09-06追記)とは別に、**International Cat Care(iCatCare)獣医師会が2016年版を全面改訂する形で、猫のCKD診療に関する新しい合意ガイドライン(consensus guidelines)を発表した**ことが確認できたので追記する。著者はSamantha Taylor、Natalie Finch、Sarah Caney、Jonathan Elliott、Rebecca Geddes、Femke Mortier、Valerie Parker、Jessica Quimby、Gilad Segev、Joanna Whiteの各氏で、**Journal of Feline Medicine and Surgery誌に2026年掲載**。
+- 位置づけの整理:**IRISガイドラインが「ステージング(病期分類)の基準そのもの」を定める国際的な枠組みであるのに対し、iCatCareガイドラインはそのIRISステージングを踏まえたうえで、診断・進行予防・合併症(悪心、高カルシウム血症、高血圧、蛋白尿、貧血など)への実務的な対応、疼痛管理、麻酔・鎮痛の考え方、併存疾患(comorbidities)、そして在宅でのモニタリングまで、より臨床現場・飼い主向けの「使い方」を包括的にまとめた実務ガイドライン**、と理解できる。両者は競合ではなく補完関係にあるとみられる。
+- 本ノートの主題(飼い主向け情報発信)に特に関連が深い新しいポイント:
+  - **飼い主(caregiver)を診療チームの一員として位置づけ**、体重の記録・飼育日誌(diary)をつけることなど、家庭でのモニタリングへの関与を具体的に推奨している。
+  - **自宅と動物病院、双方の環境を「猫にとってのストレスが少ない環境」に整えることが、精神的な健康(mental wellbeing)を通じて身体的な健康にも良い影響を与えうる**、という考え方が新設のセクションとして盛り込まれている。
+  - 動物看護師(veterinary technician/nurse)を含めた**チーム医療でのフォローアップ**を重視し、「早期診断・IRISステージングに基づく管理によって、生存期間の延長と良好なQOLの両方が期待できる」との考え方が示されている。
+  - 猫のCKDは12歳超の猫で有病率28〜81%と紹介されるほど一般的な疾患であることも改めて強調されている(頻度の数値は紹介記事ベースで、原文での直接確認は今回未達・要検証)。
+- 記事化する際の注意:本ノートは今回、iCatCare公式サイト・PMC原文への直接アクセスができておらず、dvm360・VetSurgeon等の専門メディアの紹介記事、および国内の動物病院ブログ(2026年9月3日公開、マーブル動物医療センター「Dr.ナンバの時間」で本ガイドラインに言及した記事があることを確認)をベースにした整理にとどまる。具体的な数値基準(貧血の閾値など)はIRIS由来のものと混同しないよう、本ノートでは断定的な数値の記載を避ける。「腎臓の数値だけでなく、猫本人の生活の質・ストレスも診てもらう」という切り口が、本ノート既出のIRIS関連追記と組み合わせやすい。
+- 出典:
+  - [2026 iCatCare consensus guidelines on the diagnosis and management of chronic kidney disease in cats - Journal of Feline Medicine and Surgery(SAGE)](https://journals.sagepub.com/doi/full/10.1177/1098612X261466553)
+  - [同上(PubMed)](https://pubmed.ncbi.nlm.nih.gov/42693626)
+  - [New iCatCare guidelines update feline chronic kidney disease care - dvm360](https://www.dvm360.com/view/new-icatcare-guidelines-update-feline-chronic-kidney-disease-care)
+  - [New guidelines and resources for feline CKD - VetSurgeon](https://www.vetsurgeon.org/b/veterinary-news/posts/new-guidelines-and-resources-for-feline-ckd)
+  - [Dr.ナンバの時間 Vol.36 猫の慢性腎臓病、腎臓食を食べないとダメ？(2026年9月3日公開) - マーブル動物医療センター](https://marble-vmc.jp/news/lDRTKRRh)
+- 要検証:iCatCare公式サイト・原文PDFへの直接アクセスは今回未達で、専門メディアの紹介記事ベースの整理にとどまる。有病率などの具体的数値は原文での確認が望ましい。
+
+### 2. 犬の抗NGF抗体(Librela/bedinvetmab)の多系統有害事象を説明する新しい仮説論文 — 「神経栄養因子の禁断症状」仮説
+
+- 本ノートで継続的に紹介してきたLibrela(ベジンベトマブ)の有害事象(2026-07-26・2026-08-30追記のEU添付文書改訂など)について、**なぜ神経症状・排尿障害・関節症状など一見バラバラな有害事象が同時に報告されるのか**を説明しようとする新しい仮説論文が、**2026年9月11日にFrontiers in Veterinary Science誌にPerspective(見解)論文として掲載**されたことが確認できたので追記する(著者の氏名は今回、要約・抄録レベルでの確認にとどまり、正確なフルネームの列挙は要検証)。
+- 仮説の内容:bedinvetmabは神経成長因子(NGF)に結合し、TrkA受容体・p75神経栄養因子受容体へのNGF結合を妨げる薬剤である。この論文は、報告されている多系統の有害事象(排尿障害・運動失調・麻痺・無気力・行動変化や見当識障害・意識障害・けいれんなど)が、**「NGFシグナルに依存している複数の神経細胞群(痛みに関わる後根神経節ニューロンの一部、交感神経節後線維、下部尿路の求心性神経、前脳基底部のコリン作動性ニューロンなど)への全身的なNGFシグナル遮断」という単一のメカニズムで、個別に毒性機序を想定しなくても説明できるのではないか**、という「神経栄養因子の禁断症状(neurotrophic withdrawal)」仮説を提唱している。
+- 臨床的な示唆として、この仮説は**「高齢で、複数の疾患を併発し、神経系の予備能力(代償能力)が低下している犬ほど、この種の有害事象に対して脆弱である可能性がある」**と予測している、と紹介されている。
+- 記事化する際の注意:**これはあくまで「仮説を提示する論文(Perspective)」であり、因果関係を証明した研究ではない**。本ノート既出の有害事象報告件数(EU添付文書改訂など)と組み合わせて紹介する場合も、「有害事象がなぜ起きるのかについて、一つの説明の可能性が専門誌で提案された段階」という慎重なトーンに留める。断定的に「Librelaは危険」と結論づける書き方は避ける。日本語でこの仮説論文自体を紹介した記事は今回確認できなかった(未確認)。
+- 出典:
+  - [A neurotrophic withdrawal hypothesis for multisystem adverse events associated with anti-NGF therapy for canine osteoarthritis pain - Frontiers in Veterinary Science, 2026(DOI: 10.3389/fvets.2026.1776920)](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1776920/full)
+- 要検証:著者名・所属機関の正確な情報、および査読プロセスでの他の専門家からの反応(コメンタリー等)は今回未確認。本ノート既出のLibrela関連の他の一次資料(EMA・PEI等の規制当局発表)と合わせて、今後の反応を継続して追うべきテーマ。

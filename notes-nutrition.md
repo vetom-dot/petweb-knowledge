@@ -259,3 +259,28 @@
   - [Northwest Naturals Voluntarily Recalls Two Raw Pet Food Products Because of Possible Salmonella & Listeria Monocytogenes Health Risk - FDA(公式発表)](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/northwest-naturals-voluntarily-recalls-two-raw-pet-food-products-because-possible-salmonella)
 - →記事ネタ:「手作り・生食派の飼い主が知っておきたい、食品リコール情報の見方」。FDA・農水省(国内なら消費者庁・自治体のリコール情報サイト)の定点チェックを習慣にすることを勧める、実務寄りの記事にできる。
 - 要検証:日本国内での同種製品の流通・関連リコールの有無は今回未確認。本件はあくまで米国内の自主回収であり、日本の消費者庁・農林水産省のリコール情報とは別系統である点に注意。
+
+---
+
+## 2026-09-27 追記:米国で犬用サプリメント・生食のサルモネラ関連リコールが続報 — 「実際に発症例あり」のケースも
+
+- 本ノート既出のNorthwest Naturals社リコール(2026-08-30追記)に続き、2026年に入ってからも米国でサルモネラを理由とする犬猫向け製品のリコールが相次いでいることが確認できたので、食品安全の定点観測として追記する。今回は「サプリメント」と「実際に発症報告がある生食」という、これまで本ノートで扱っていなかった2つの切り口を含む。
+
+### 1. 犬用サプリメント「Fi」2製品のサルモネラリコール(2026年9月)
+
+- ニューヨーク拠点のペット向けサプリメント会社**Fi**が、**2026年9月3日にリコールを発表し、FDAが9月8日に公式発表を掲載**した。対象は「Fi Calming Supplement for Dogs」(180g、ロット番号26118)と「Fi 8-in-1 Formula Supplement for Dogs」(180g、ロット番号26159)の2製品。
+- 原因は、製造元に原材料を供給していた業者側の原材料からサルモネラ菌が検出されたためとされ、当該製造元は原因調査のため生産を一時停止していると報じられている。Amazon・Chewy.comなど含むオンライン販売および直販で流通していた。
+- 本ノートにとっての新しい着眼点:これまで紹介してきたリコール(生食・おやつ)と異なり、**日常的に与える「サプリメント」もリコール対象になりうる**という点。サプリメントは「療法食ほど厳密に医師の指示を仰がず、飼い主の判断で継続しやすい」性質があるため、リコール情報のチェック習慣がより重要になりうる、という文脈で紹介できる。
+- 記事化の注意:現時点で人・動物いずれの健康被害も確認されていない(自主回収段階)。日本国内での同種製品の流通は今回未確認。
+- 出典:
+  - [Fi Recalls Supplements for Dogs Because of Possible Salmonella Contamination - FDA(公式発表)](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/fi-recalls-supplements-dogs-because-possible-salmonella-contamination)
+
+### 2. Oma's Pride社の生食(冷凍鶏肉レシピ)リコール — 「3件の発症報告あり」と記載された事例
+
+- コネチカット州の生食メーカー**Oma's Pride**社が、**「Woof Complete Canine Chicken Recipe」(6ポンド入り、ロット番号BB012729、製造日2026年1月27日)**についてサルモネラ陽性のためリコールしたと、**FDAが2026年8月12日に発表**している(対象639袋、AZ・CA・IN・KY・LA・MD・NJ・NV・NY・PA・VAの各州に流通)。
+- 本ノート既出の他のリコール事例(Northwest Naturals、および本追記のFi)がいずれも「健康被害の報告なし」だったのに対し、この事例は**FDA発表内に「本製品に関連する発症(苦情)が3件報告されている」と明記されている点が異なる**。リコールのきっかけも、定期サンプリングではなく**消費者からの苦情を受けてFDAが検体を採取・検査した結果、サルモネラが検出された**という経緯であり、実際の健康影響が疑われている点で他の事例より深刻度が高いと考えられる。
+- 記事化の注意:発症の詳細(ペットか人か、症状の程度など)は今回、二次情報止まりで確認できておらず**要検証**。本ノート既出の「生食を扱う際は調理器具の分離・冷蔵管理・手洗いを徹底し、基礎疾患のある高齢の猫犬では特にかかりつけ医に相談」という注意点は、この事例でも変わらず当てはまる。
+- 出典:
+  - [UPDATED: Oma's Pride Voluntarily Recalls One Lot of Woof Complete Canine Chicken Recipe (6 lb Bag) Because of Possible Salmonella Health Risk - FDA(公式発表)](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/updated-omas-pride-voluntarily-recalls-one-lot-woof-complete-canine-chicken-recipe-6-lb-bag-because)
+- 要検証:発症事例の具体的な内容(何件が動物、何件が人か等)は今回未確認。日本国内での関連製品の流通は確認できていない。
+- →記事ネタ(1・2共通):「生食・サプリ、リコール情報はどこで確認する?——FDAの発表ページを定点チェックする習慣」。本ノート既出のNorthwest Naturals事例とあわせ、「なんとなく安全そう」という思い込みではなく、実際に発症報告のある事例とない事例があること、リコールの経緯(定期検査か、苦情がきっかけか)によって深刻度の解釈が変わりうることを、飼い主向けに整理して伝えられる。断定的に「生食は危険」とせず、情報収集の習慣づけを促すトーンを維持する。
