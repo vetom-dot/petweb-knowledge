@@ -347,6 +347,33 @@
   - 飼い主が「健康・穏やかな気質」や「繁殖の質」を重視して犬を選んだ場合にも、CCDスコアが低い傾向が見られた。
 - 本ノート4章で既出のDog Aging Projectの知見(身体活動量とCCDリスクの関連、ただし相関であり因果は未確定)と同じ方向性の知見だが、**「生涯を通じた運動歴」「飼い主との関わりの質」「犬種特性」という3つの軸を組み合わせて分析した点が新しい**。ただし、この調査も**飼い主の回顧的な自己申告に基づくアンケート調査であり、「元気だから運動を続けられた」可能性(逆の因果)を排除できない横断的なデータ**である点に注意が必要(要検証)。
 - →記事ネタ:「老犬でも"現役"でいることが、脳の若さにつながるかもしれない」という切り口。ただし「運動させれば認知症を防げる」という断定は避け、「関連が示唆されている」というトーンに留める。本ノート既出のグループトレーニング研究(2026-08-23追記)と組み合わせ、「特別な運動でなくても、日々の関わりや続けられる活動があること自体に意味があるかもしれない」という飼い主に優しいメッセージにできる。
+
+---
+
+## 2026-10-04 追記:血清NfL(神経フィラメント軽鎖)がCSF検査の代替になりうるかを検証した新研究、猫の認知機能不全スクリーニング質問票「SeniCat」の開発状況
+
+### 1. 血液(血清)のNfL値は、脳脊髄液(CSF)のNfL値の「代替」になりうるかを検証した研究(Animals誌, 2026年8月25日)
+
+- 犬の認知機能低下の確定診断に使われるCSF(脳脊髄液)検査やMRIは全身麻酔を要するため、高齢犬には負担・リスクがあるという課題意識から行われた研究。
+- 高齢犬において、血清中のNfLと脳脊髄液(CSF)中のNfLには中程度の相関が確認されたという。
+- 単純な数値の比較では、脳の病変(萎縮など)を健常犬と区別する判別力は「中等度」にとどまったが、**年齢・体重といった交絡因子を統計的に調整すると、CSF中のNfLによる判別力が大きく向上した**と報告されている。
+- 現時点では、血液検査だけでCSF検査を完全に置き換えられる段階ではなさそうだが、より低侵襲な診断法の開発に向けた研究が続いている、という位置づけ。本ノート既出(2026-07-12追記等)の「NfLは研究段階のバイオマーカーで、標準化された基準値はまだない」という整理を補強する内容といえる。
+- 関連して、犬の血漿・CSF中のNfL・GFAP・アミロイドβ等を比較した別の研究(Alsulami et al., BMC Veterinary Research 21, 617, 2025年)でも、**血漿NfLが加齢および認知機能低下の程度と強く相関する**と報告されている。
+- 出典:
+  - [Animals 2026, 16(17), 2659. "Investigation of Serum Neurofilament Light Chain as a Surrogate for Cerebrospinal Fluid Neurofilament Light Chain in Canine Cognitive Dysfunction Syndrome"](https://doi.org/10.3390/ani16172659)
+  - [Alsulami et al., "Plasma and cerebrospinal fluid biomarkers in aged dogs with cognitive decline", BMC Veterinary Research 21, 617 (2025)](https://bmcvetres.biomedcentral.com/articles/10.1186/s12917-025-05027-w)
+
+### 2. 猫の認知機能不全(FCD)の飼い主向けスクリーニング質問票「SeniCat」の開発(英エディンバラ大学、Morris Animal Foundation助成)
+
+- エディンバラ大学のDanielle Gunn-Moore氏らのグループが、Morris Animal Foundationの助成を受けて、飼い主が回答する質問票「SeniCat」を開発・検証中であることが分かった。
+- 猫の認知機能不全は、腎臓病や関節炎など高齢猫によくみられる他の病気と症状が重なりやすく見分けにくいため、一般診療の現場で使える簡便な診断ツールがまだ確立していない、という課題意識が開発の背景にある。
+- 研究は2段階方式が計画されている:まずSeniCat質問票で飼い主にスコアをつけてもらい、次に自宅でできる簡単な空間記憶テストの結果と比較する、というもの。
+- 現時点では開発・検証が進行中のプロジェクトであり、完成・公開された診断ツールではない(要継続ウォッチ)。
+- 出典:
+  - [Morris Animal Foundation, "Developing and Validating a Diagnostic Tool for Feline Cognitive Dysfunction"](https://www.morrisanimalfoundation.org/study/developing-and-validating-diagnostic-tool-feline-cognitive-dysfunction)
+- 参考(関連は未確認):別の調査では、猫240頭(年齢不明の5頭を除く235頭、6〜11歳)を対象に、認知機能不全を示唆する徴候群「VISHDAAL」のいずれか1つ以上を示した猫が約6割、他の病気で説明できない「認知機能不全の可能性がある」猫が約3割(32%)にのぼったという報告がある。この調査とSeniCatプロジェクトが同一の研究かどうかは今回確認できなかった。
+  - [BSAVA, "Focusing on feline cognitive dysfunction" (2025年12月10日)](https://www.bsava.com/article/focusing-on-feline-cognitive-dysfunction/)
+- →記事ネタ:「うちの猫、認知症かも?」と思ったときに使えるセルフチェックツールが研究段階で作られている、という話題は読者の関心を引きやすい。ただし未完成のツールであることを明記し、過度な期待を持たせない書き方が必要。「他の病気(腎臓病・関節炎等)でも似た症状が出る」という注意点は、個体を特定しない一般的な注意喚起として記事化しやすい。
 - 出典:
   - [Hard-working or hardly working dogs stay young longer? Lifetime sports engagement, joint activity with the owner and breed type are associated with the severity of canine cognitive decline - Frontiers in Veterinary Science, 2026](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1833531/full)
   - [同上(PubMed)](https://pubmed.ncbi.nlm.nih.gov/42131431/)
