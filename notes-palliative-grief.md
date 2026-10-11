@@ -321,3 +321,24 @@
   - [同上(PubMed)](https://pubmed.ncbi.nlm.nih.gov/42643062/)
   - [Attachment styles influence grief severity after losing a pet, study suggests - PsyPost](https://www.psypost.org/attachment-styles-influence-grief-severity-after-losing-a-pet-study-suggests/)
 - 要検証:本文全文(愛着スタイルの測定尺度、統計量の詳細)は今回未精査。二次情報・抄録ベースの整理にとどまる。
+
+---
+
+## 2026-10-11 追記:QOL評価スケールの「検証済み/未検証」という視点、疼痛に特化した「BEAPスケール」
+
+- 本ノート1章で紹介したHHHHHMMスケール・Lap of LoveのQOLスケール、2026-08-23追記のFelQoLに続き、**QOL評価スケールそのものの「科学的な検証(validation)」の有無**という、これまで本ノートで整理していなかった視点を補足する情報が確認できたので追記する。米国の獣医師向けセミナー(Fetch継続教育カンファレンス)の内容を紹介するdvm360の記事がベースで、Lap of Love共同創業者のKathleen Cooney氏の見解を伝えている。
+- 主な内容:
+  - 現在広く使われているQOLスケールのうち、**「VetMetrica」という犬猫共通のオンライン質問票形式のツールだけが、査読論文による科学的検証(妥当性・再現性の検証)を経ている**、と紹介されている(有料ツール)。英国グラスゴー大学の研究者らが開発に関わり、変形性関節症の猫などを対象にした妥当性検証の論文が複数発表されている。
+  - これに対し、本ノート既出のHHHHHMMスケールやLap of Loveのスケールは、**広く実務で使われているものの、同種の科学的検証を経たものではない**、という位置づけが示されている。これは「使えない」ということではなく、「話し合いの土台」として使う位置づけ(本ノート既出)を再確認する材料と理解できる。
+  - Cooney氏は、既存のQOLスケールに**疼痛に特化した評価を補うツールとして「BEAPスケール」**(Breathing=呼吸・Eyes=目の様子・Ambulation=歩行・Activity=活動性・Appetite=食欲、の5項目×各0〜5点程度で構成される観察シート)を併用することを提案している。
+  - また、**QOL評価シートは飼い主一人だけでなく、家族の複数人でそれぞれ記入する方が、より実態に近い評価になりやすい**、という実務上の助言も紹介されている。一人の視点では見落とされがちな変化を拾いやすくなる、という考え方。
+- 位置づけ:本ノート1章でHHHHHMM・Lap of Loveを紹介した際、「点数で自動判定しない・話し合いの土台」と注意書きしていたが、**今回の情報は、その注意書きの背景(多くのスケールが未検証のツールであること)に具体的な根拠を与えるもの**といえる。「科学的に検証されたツールもあるが有料で専門的」「無料で広く使われるツールは未検証だが実務での蓄積がある」という二層構造を飼い主に伝える際の整理に使える。
+- 記事化の注意:「未検証」という表現が「信頼できない」という誤解を招かないよう配慮が必要。多くの医療・ケア現場のチェックリストと同様、**検証済みでなくても実務上の価値はある**、という文脈を必ず添える。BEAPスケール自体の妥当性検証論文は今回確認できておらず、**考案者(BluePearl社)による普及用ツールという位置づけ**である点も明記する。
+- 出典:
+  - [Advances in end-of-life care: updates on recent literature - dvm360](https://dvm360.com/view/advances-in-end-of-life-care-updates-on-recent-literature)
+  - [BEAP Pain Scales for Dogs(PDF) - BluePearl Pet Hospital](https://bluepearlvet.com/wp-content/uploads/2025/08/BEAP-Pain-Scales-for-Dogs.pdf)
+  - [Quality of Life - BluePearl in-home pet hospice](https://bluepearlvet.com/in-home-pet-hospice/quality-of-life/)
+  - [Validity and Responsiveness of the Generic Health-Related Quality of Life Instrument (VetMetrica™) in Cats With Osteoarthritis - Frontiers in Veterinary Science, 2021(PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8514988/)
+  - [Optimising outputs from a validated online instrument to measure health-related quality of life (HRQL) in dogs(PMC)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6750605/)
+- 要検証:dvm360記事自体の掲載年・セッションの開催年は今回明確に確認できておらず、本ノートの他の2026年追記と比べてやや古い可能性がある(要確認)。BEAPスケールの科学的妥当性検証の有無、VetMetricaの猫以外(犬)での検証状況の詳細は、原論文での確認が望ましい。
+- →記事ネタ:「飼い主がつける"採点表"、実はいろいろなタイプがある」という整理記事。「検証済みの専門ツール」「広く使われる無料ツール」「痛みに特化した観察シート」という3タイプを紹介し、「どれが正解というより、家族みんなで記入して話し合う"きっかけ"として使う」という本ノートの一貫したメッセージに落とし込める。

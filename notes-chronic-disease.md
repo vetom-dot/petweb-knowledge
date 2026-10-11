@@ -355,3 +355,36 @@
 - 出典:
   - [A neurotrophic withdrawal hypothesis for multisystem adverse events associated with anti-NGF therapy for canine osteoarthritis pain - Frontiers in Veterinary Science, 2026(DOI: 10.3389/fvets.2026.1776920)](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1776920/full)
 - 要検証:著者名・所属機関の正確な情報、および査読プロセスでの他の専門家からの反応(コメンタリー等)は今回未確認。本ノート既出のLibrela関連の他の一次資料(EMA・PEI等の規制当局発表)と合わせて、今後の反応を継続して追うべきテーマ。
+
+---
+
+## 2026-10-11 追記:日本発「AIM」ベースの猫CKD治療薬が承認申請/ノッティンガム大学が猫の腎臓に特異的な脂質蓄積を報告
+
+### 1. 日本のベンチャー企業、AIMタンパク質を利用した猫の慢性腎臓病(CKD)治療薬の製造販売承認を申請
+
+- 東京の「Institute for AIM Medicine」社(AIM医学研究所)が、血液中のタンパク質「AIM(Apoptosis Inhibitor of Macrophage、マクロファージ・アポトーシス阻害因子)」を利用した猫のCKD治療薬「**FeliAIM**」について、**2026年4月24日、日本の農林水産省に動物用医薬品としての製造販売承認を申請した**と報じられている。猫は人や他の動物と異なり、血液中のAIMが機能的に働きにくい(腎臓の老廃物処理に関わる仕組みがうまく働かない)ことが、猫にCKDが非常に多い一因ではないか、という仮説に基づく治療薬とされる。
+- 根拠として紹介されている臨床データ(2026年、The Veterinary Journal掲載の論文「A clinical impact of apoptosis inhibitor of macrophage on feline chronic kidney disease」):CKDの猫**26頭**を、マウス由来の組換えAIM投与群(6頭)・猫由来の組換えAIM投与群(5頭)・**無治療の対照群(15頭)**に分け、**360日間追跡**。無治療群の生存期間の中央値は167日だったのに対し、**投与群では360日時点の累積生存率が約80〜83%、無治療群では約20%**だったと報告されている。
+- 記事化の注意:**対象は合計11頭(治療群)対15頭(対照群)という非常に小規模な試験であり、「探索的な研究」の段階にとどまる**と位置づける紹介も複数ある。2026年4月の申請はあくまで承認審査の開始であり、**審査結果・承認時期は今回確認できておらず未確認**(早ければ2026年内〜2027年春頃という見通しを示す記事もあるが、いずれも推測の域)。「猫が30歳まで生きられるようになる」といった煽り気味の見出しで紹介する記事も見られるが、本ノートでは数値を小規模な試験の結果として慎重に扱い、**断定的な効果の記載は避ける**。日本国内での最終的な承認可否、承認後の販売時期・価格はすべて未確認。
+- 本ノート既出のIRIS・iCatCareガイドライン(貧血管理、総合的な進行抑制)とは異なる、原因（AIMの機能不全）に着目した新しいアプローチという位置づけで理解できる。
+- 出典:
+  - [Japan startup seeks approval of cat kidney disease treatment - phys.org(2026年4月)](https://phys.org/news/2026-04-japan-startup-cat-kidney-disease.html)
+  - [A clinical impact of apoptosis inhibitor of macrophage on feline chronic kidney disease - PubMed](https://pubmed.ncbi.nlm.nih.gov/41485732/)
+  - [FeliAIM: Japan's AIM Kidney Drug for Cats — Filed for Approval, Now Under Review(2026年8月更新) - Carelogy Japan](https://carelogy-japan.com/en/columns/aim-kidney-drug-2026-update)
+  - [FeliAIM Update: Cat CKD Drug Officially Filed April 2026 — Trade Name & Review Timeline - Carelogy Japan](https://carelogy-japan.com/en/columns/feliaim-approval-application-2026)
+- 要検証:The Veterinary Journal掲載論文の原文(統計的手法・信頼区間の詳細)、農水省への申請書類そのものは今回未確認。承認審査の進捗は今後も継続してウォッチすべきテーマ。
+
+### 2. 猫の腎臓に特異的な脂質の蓄積が見つかる — CKDへのかかりやすさを説明する手がかりか(英国ノッティンガム大学、2026年)
+
+- 英国ノッティンガム大学獣医学部のグループ(Rebecca Brociek、David Gardnerら)による研究が、2026年にFrontiers in Veterinary Science誌に掲載された。家猫・犬・スコティッシュワイルドキャット(野生のヤマネコ)の腎臓組織(家猫58頭・犬7頭・ワイルドキャット24頭+動物園飼育の野生種3頭)を比較し、腎臓の近位尿細管細胞にできる「脂質滴(lipid droplets)」の種類・量を分析している。
+- 主な報告:
+  - **家猫は犬に比べて腎臓内の脂質滴が明らかに多く**、その脂質の種類も、他の哺乳類ではほとんど見られない特殊な構造(変則的な化学結合・分岐構造を持つ中性脂肪の一群)だったという。
+  - この脂質蓄積のパターンは、**犬ではまったく見られず、ワイルドキャットでは一部にしか見られなかった**。家猫に特有性の高い所見とされる。
+  - **CKDがまだ臨床的に明らかになっていない若い猫の腎臓でも、同様の脂質蓄積が見られた**ことから、研究チームは「この脂質蓄積が、加齢に伴うCKD発症に先行する、腎臓への長期的なストレスの初期サインかもしれない」と推測している。
+- 記事化の注意:**この研究はあくまで観察研究であり、脂質蓄積とCKD発症の間の因果関係を証明したものではない**。「なぜ猫はCKDになりやすいのか」という長年の謎に対する一つの手がかりが見つかった段階、というトーンで紹介するのが適切。猫の尿中の脂質との関連など、今後さらに研究が必要な点が多いとされる。
+- 出典:
+  - [Lipid droplets in felid kidneys: prevalence and composition by lipidomics - Frontiers in Veterinary Science, 2026](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2026.1711591/full)
+  - [同上(PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12969852)
+  - [Research raises hopes of feline chronic kidney disease care advance - Vet Times(2026年3月)](https://www.vettimes.com/news/vets/small-animal-vets/research-raises-hopes-of-feline-chronic-kidney-disease-care-advance)
+  - [Cats Have a Unique Kidney Chemistry That Could Be Harming Their Health - myvetcandy(2026年5月)](https://www.myvetcandy.com/news/2026/5/25/cats-unusual-kidney-fats-chronic-kidney-disease-nottingham-study-2026)
+- 要検証:論文本文(統計的解析の詳細、若齢猫での所見の具体的な頭数)は今回、二次情報・要約ベースの整理にとどまる。原文での確認が望ましい。
+- →記事ネタ:本追記1(FeliAIM)と組み合わせ、「猫の腎臓病、"なぜなりやすいのか"の解明と"新しい治療法"の両方で研究が進んでいる」という定点観測記事にできる。いずれも研究・審査の初期段階である旨を必ず明記し、「今すぐ使える」という誤解を招かない書き方にする。
