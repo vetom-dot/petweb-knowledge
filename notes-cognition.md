@@ -380,3 +380,37 @@
   - [同上(PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC13161145/)
   - [New study on how exercise can diminish dementia in dogs - Steve Dale's Pet World](https://stevedalepetworld.com/blog/can-exercise-and-play-help-prevent-dementia-in-dogs-new-study-offers-clues/)
 - 要検証:本文全文(統計的有意水準、犬種分類の詳細な基準)は今回未精査。二次情報・検索結果の要約ベースの整理にとどまる。
+
+---
+
+## 2026-10-18 追記:Dog Aging Projectの大規模空間記憶テスト検証研究、老齢犬猫の認知機能に対する食事・サプリメントのエビデンスを整理した系統的レビュー
+
+### 1. コミュニティサイエンス方式で6,753頭の犬を対象に実施した「短期空間記憶」機能テストの検証研究(Dog Aging Project、GeroScience, 2025年9月)
+
+- 米アリゾナ大学のEmily E. Bray氏らのグループ(Dog Aging Project)による研究が、GeroScience誌に発表された(論文:「Functional assessments of short-term spatial memory in the Dog Aging Project identify strong associations with age that are not moderated by body mass」、doi: 10.1007/s11357-025-01867-4、2026年6月付のbioRxivプレプリントを経て2025年9月に正式掲載)。
+- Dog Aging Projectに参加する飼い主自身(研究者ではない一般の「市民科学者」)が自宅で実施できる2種類の空間記憶テスト(隠した食べ物のありかを一定時間後に探す、といった課題)を開発し、**6,753頭という大規模な犬のデータ**で検証した。
+- 主な報告:
+  - 一般の飼い主が自宅で測定したデータは、専門の研究者が測定したデータとおおむね一致しており、**自宅で実施する簡易テストとしての妥当性**が確認された。
+  - 両方の課題で、**中年期(midlife)の時点から既に加齢に伴う機能低下の兆候**が検出されたという。
+  - 体重(体格)を寿命の代理指標として扱い、「年齢と認知機能の関連」が犬の体の大きさによって変わるかどうかを検証したところ、**大型犬・小型犬で年齢との関連の強さに明確な違いは見られなかった**(体格による交互作用を含まないモデルの方が統計的に支持された)。
+- 位置づけ:本ノート既出の各種認知機能評価ツール(DISHAA等、飼い主の行動観察に基づくもの)とは異なり、**「課題をやらせて成績を測る」客観的な機能テストを、研究施設ではなく一般家庭で大規模に実施できることを示した**という方法論上の意義が大きい研究といえる。将来的に、より早期(中年期)からの認知機能モニタリングツールの開発につながる可能性があるが、**現時点では研究目的の測定ツールであり、動物病院で使える診断ツールとして確立したものではない**。
+- →記事ネタ:「愛犬の脳の若さ、"かくれんぼ"テストでわかるかもしれない」という切り口。ただし研究段階のツールであることを明記し、「将来こうしたチェックが広く使えるようになるかもしれない」というトーンに留める。
+- 出典:
+  - [Functional assessments of short-term spatial memory in the Dog Aging Project identify strong associations with age that are not moderated by body mass - GeroScience (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12236699/)
+  - [同上(bioRxivプレプリント)](https://www.biorxiv.org/content/10.1101/2025.06.30.662397.full.pdf)
+- 要検証:本文全文の統計的詳細(効果量、年齢カテゴリーの区切り方など)は今回未精査。二次情報・抄録ベースの整理にとどまる。
+
+### 2. 老齢犬猫の認知機能に対する「食事療法・サプリメント」のエビデンスを整理した系統的レビュー(GeroScience, 2025年)
+
+- 本ノート既出(69〜74行目、食事療法・サプリメントの章)の記述を補強する新知見として、老齢犬猫の認知機能に対する食事介入・サプリメントの効果を検証した臨床試験を系統的に整理したレビュー論文が確認できた(Blanchard et al.、「Enhancing cognitive functions in aged dogs and cats: a systematic review of enriched diets and nutraceuticals」、GeroScience, 2025年1月18日付、doi: 10.1007/s11357-025-01521-z)。
+- PubMed・CAB Abstracts・Web of Science・Dimensionsを検索し、2002〜2023年に発表された**臨床試験30本(犬27本・猫2本、算入基準の数と一致しない1本は複数種対象)**を対象に、改変版CAMARADESチェックリストで研究の質を評価した。
+- 主な報告:
+  - **「脳機能を意識して成分を強化した療法食」を検証した研究の方が、単体のサプリメントを検証した研究よりも、方法論的な質が総じて高い**傾向があったという。
+  - 検証された成分のうち、**オメガ3脂肪酸(DHA等)が最も支持するエビデンスが多く、特に高用量で認知面の改善が報告されている**とまとめられている。
+  - その他、**SAMe(S-アデノシルメチオニン)、中鎖脂肪酸(MCT)、ホモタウリン、アポイクオリン**といった成分についても、改善を示唆する報告があるとされる(ただしオメガ3と比べ、エビデンスの蓄積は限定的)。
+  - 著者らは、今後の研究では**標準化された試験プロトコル、しっかりとした対照群の設定、客観的な課題成績評価と飼い主アンケートの併用**が必要だと提言している。
+- 位置づけ:**猫を対象にした試験はわずか2本しかなく、犬に比べて猫の知見が大きく不足している**ことが改めて確認された点も重要な情報。本ノート既出の「シニア猫の認知機能不全(FCD)は研究が犬より遅れている」という整理(SeniCat開発中、2026-10-04追記等)とも整合する。
+- →記事ネタ:「脳のためのご飯、何が効くと言われているのか——オメガ3は比較的研究が多い」という切り口。ただし「このサプリを飲めば認知症が治る/防げる」という断定は避け、「研究の蓄積に差があり、オメガ3以外は根拠がまだ限定的」という誠実な整理を心がける。特定商品の推奨はしない。
+- 出典:
+  - [Enhancing cognitive functions in aged dogs and cats: a systematic review of enriched diets and nutraceuticals - GeroScience (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12181554/)
+- 要検証:本文全文(各成分のエビデンスレベルの詳細な評価基準、猫の2試験の内容)は今回未精査。二次情報・抄録ベースの整理にとどまる。
