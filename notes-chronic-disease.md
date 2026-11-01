@@ -388,3 +388,59 @@
   - [Cats Have a Unique Kidney Chemistry That Could Be Harming Their Health - myvetcandy(2026年5月)](https://www.myvetcandy.com/news/2026/5/25/cats-unusual-kidney-fats-chronic-kidney-disease-nottingham-study-2026)
 - 要検証:論文本文(統計的解析の詳細、若齢猫での所見の具体的な頭数)は今回、二次情報・要約ベースの整理にとどまる。原文での確認が望ましい。
 - →記事ネタ:本追記1(FeliAIM)と組み合わせ、「猫の腎臓病、"なぜなりやすいのか"の解明と"新しい治療法"の両方で研究が進んでいる」という定点観測記事にできる。いずれも研究・審査の初期段階である旨を必ず明記し、「今すぐ使える」という誤解を招かない書き方にする。
+
+---
+
+## 2026-11-01 追記:犬の僧帽弁疾患、ピモベンダンが「無症候性ステージB2」適応でFDA本承認/抗NGF抗体の関節有害事象、英国VMDが独自に安全性対応・猫の製剤にも懸念拡大/猫の早期CKDで腎臓用療法食の効果を示す大規模データ
+
+### 1. 犬の僧帽弁疾患(MMVD)、ピモベンダン(Vetmedin)が「無症候性ステージB2」への適応でFDAの本承認(full approval)を取得——条件付き承認からの昇格は制度上初めての例
+
+- 本ノート「犬の心臓病(MMVD)とACVIMステージ分類」章で紹介したピモベンダンの位置づけ(ステージB2からの投与がEPIC試験を根拠に推奨される、という一般的な紹介)について、**米国FDAが2025年12月〜2026年1月にかけて、ピモベンダン製剤「Vetmedin」の「無症候性(ステージB2)の僧帽弁粘液腫様変性(MMVD)犬における、うっ血性心不全(CHF)発症の遅延」という適応を正式承認(full approval)した**ことが確認できたので追記する(製造元はBoehringer Ingelheim)。
+- **制度上の意味**:この適応は2022年に「条件付き承認(conditional approval、有効性のさらなるエビデンス提出を前提に更新される承認形式)」として先行して付与されていたもので、**FDAが条件付き承認された動物用医薬品の適応を本承認に切り替えたのは、これが初めての例**とされる。本ノート既出(猫のCKD貧血治療薬・モリダスタット=Varenzin-CA1、2026-08-02追記)で紹介した「条件付き承認」という制度の“次のステップ”を示す事例として記録しておく。
+- **根拠とされるデータ(企業発表・業界メディアの紹介ベース)**:EPIC試験で、無症候性ステージB2の犬にピモベンダンを投与した群は、投与しなかった群に比べて**CHF発症または心臓関連死までの期間が平均15.6か月延びた**という報告が引用されている。別の試験では、**1年間投与を継続した犬の79%がCHFを発症しなかった**とも報告されている。
+- **日付に関する注意**:FDA自身の発表(CVM Updates)は2025年12月19日付とされる一方、製造元のプレスリリースは2026年1月19日付、業界メディア(dvm360等)の報道は2026年1月20日前後に集中しており、発表のタイミングに複数の日付が存在する(二重発表的な扱いになっている可能性があり、要検証)。
+- **記事化する際の注意**:**本承認はあくまで「無症候性(症状が出ていない)段階のMMVDで心拡大がある犬」という特定の状態が対象**であり、本ノート既出のACVIMステージ分類(ステージB2)の判定自体は獣医師による心エコー・X線検査が前提。「心臓の薬が新しく承認された」という事実のみを中立的に紹介し、「無症候性でも薬を飲ませるべき」といった断定は避け、投与の適応・開始時期は個体ごとに獣医師が判断する旨を明記する。日本国内での承認状況は今回確認できておらず未確認。
+- 出典:
+  - [First Treatment for Delaying Canine Congestive Heart Failure Receives FDA Approval - dvm360(2026年1月20日)](https://www.dvm360.com/view/first-treatment-for-delaying-canine-congestive-heart-failure-receives-fda-approval)
+  - [FDA Approves First Drug to Delay the Onset of Congestive Heart Failure in Dogs - Canine Chronicle](https://caninechronicle.com/current-articles/fda-approves-first-drug-to-delay-the-onset-of-congestive-heart-failure-in-dogs/)
+  - [FDA nod to Boehringer Ingelheim's heart disease treatment for dogs 'Vetmedin' - Indian Pharma Post](https://www.indianpharmapost.com/news/fda-nod-to-boehringer-ingelheims-heart-disease-treatment-for-dogs-vetmedin-18952)
+- 要検証:FDA公式のCVM Updatesページ・Freedom of Information Summary原文への直接アクセスは今回未達(ネットワーク制限により接続できず)。承認日の正確な特定、日本国内での承認状況、EPIC試験の数値の一次確認はいずれも今後の課題。
+
+### 2. 抗NGF抗体(Librela/Solensia)の関節有害事象、英国VMDが独自の安全性対応を実施——新しい論文は猫用製剤(frunevetmab/Solensia)にも同様の懸念を指摘
+
+- 本ノートで継続的に紹介してきた抗NGF抗体製剤の筋骨格系有害事象(2026-08-30追記のEMA/CVMPによるEU添付文書改訂、2026-09-27追記の「神経栄養因子の禁断症状」仮説論文)について、**英国の獣医医薬品局(VMD)が、EUのCVMPとは別に、英国独自の安全性評価・添付文書対応を行っていた**ことが確認できたので追記する。あわせて、**これまで主に犬用のLibrela(ベジンベトマブ)を中心に報告されていた関節の急速な悪化が、猫用のSolensia(フルネベトマブ)にも同様に報告されている**とする新しい論文の存在も確認できた。
+- **英国VMDの対応の経緯(英国政府の情報公開請求(FOI)回答ページの紹介記事ベース)**:
+  - **2026年1月**、Librelaの添付文書に「免疫介在性多発性関節炎(immune-mediated polyarthritis)」「不全麻痺(paresis)」「麻痺(paralysis)」という新たな有害事象の用語が追加された、と紹介されている。
+  - **2026年2月**、VMDは有害事象の詳細な評価(in-depth assessment)を完了し、「Librelaの有益性は、投与された大多数の犬においてリスクを上回っている」と結論づけたと報じられている。一方で、投与後に急速に状態が悪化したとみられる犬の事例があったことも認めている、との紹介がある。
+  - **2026年5月20日**、「Librelaと筋骨格系の有害事象との因果関係を示す複数ソースからのエビデンスが増えている」という評価に基づき、添付文書がさらに更新され、**5月26日にも緊急の安全性アップデートが追加された**、と英国政府のFOI公開ページが紹介されている。
+  - これらの用語(免疫介在性多発性関節炎・不全麻痺・麻痺)は、**本ノート既出(2026-08-30追記)のEMA/CVMPが追加した用語(関節の腫れ・関節の痛み・骨関節障害・関節炎)とは別の表現**であり、英国とEUそれぞれの規制当局が、同じ安全性シグナルについて別々の添付文書対応を重ねてきた可能性がある(両者の関係の詳細は要検証)。
+- **猫用製剤(Solensia)にも懸念が拡大**:上記の英国FOI回答ページが引用している2026年の論文「Emerging Signs of Rapidly Progressive Arthritic Changes in Dogs and Cats Receiving Bedinvetmab and Frunevetmab」(著者:Dirsko J.F. von Pfeil、Andrew Armitage、Nathan C. Nelson、Veterinary and Comparative Orthopaedics and Traumatology誌、2026年)は、**犬のLibrela(ベジンベトマブ)だけでなく、猫のSolensia(フルネベトマブ)を投与された猫でも、重度の骨棘形成、骨膜反応、骨の浸食、関節の不安定化・亜脱臼、関節の崩壊、骨溶解といった「急速に進行する破壊的な関節症(destructive arthropathy)」の所見が報告されている**、と紹介されている。本ノートはこの論文の原文(抄録含む)への直接アクセスが今回できておらず、英国FOI回答ページの紹介内容をベースにした整理にとどまる(要検証)。
+- **読み方の注意**:この分野は専門家の間でも見解が分かれている。本ノート既出の2025年のFrontiers誌の研究(Librela投与犬で筋骨格系の有害事象報告が比較薬より多いとする)に対しては、**Brunke・Dewey氏らによる別の論考が「比較対象のデータセットが適切でない」と手法上の問題を指摘しており、犬における「ヒトのRPOA(急速進行性OA)の動物版」が証明されたとまでは言えない、という反論もある**。製造元のZoetis社も「Librelaの安全性と有効性に確信を持っている」という立場を一貫して示している。
+- **その他の動向(要検証扱い)**:米国では飼い主側がZoetis社を相手に提訴する動きがあり、新しい裁判の事例が注目されているとの報道がある。英国では製品の販売中止を求める署名活動(1,200名超の署名、との紹介)も続いているとされるが、いずれも規制当局の最終判断ではなく、賛否が分かれる立場の情報として扱うべき。
+- **記事化する際の注意**:**この話題は本ノートで繰り返し追跡している「進行中の安全性シグナル」であり、今回の追記でも結論は出ていない**。「猫用の薬にも同様の懸念が報告され始めている」という事実は飼い主の関心が高いと見込まれるが、**因果関係が確立したわけではなく、専門家の間でも評価が分かれていることを必ず明記する**。「新しい関節炎の注射は危険」という単純化、逆に「安全性は確認済み」という単純化の両方を避け、「市販後の安全性監視が今も続いている薬である」という中立的な整理にとどめる。
+- 出典:
+  - [foi202601029 veterinary safety communication - UK政府FOI公開ページ(2026年8月12日公開)](https://www.gov.uk/government/publications/vmd-foieir-requests-may-2026/foi202601029-veterinary-safety-communication)
+  - [Regulator completes in-depth assessment of osteoarthritis pain relief injections for dogs - UK政府(VMD)ニュース](https://www.gov.uk/government/news/regulator-completes-in-depth-assessment-of-osteoarthritis-pain-relief-injections-for-dogs)
+  - [VMD 'satisfied' that Librela benefits outweigh its risks for 'vast majority' - Vet Times(2026年2月25日)](https://www.vettimes.com/news/vets/small-animal-vets/vmd-satisfied-that-librela-benefits-outweigh-its-risks-for-vast-majority)
+  - [Librela legal row deepens as new US test case looms - Vet Times](https://www.vettimes.com/news/business/practice-developments/librela-legal-row-deepens-as-new-us-test-case-looms)
+  - [Emerging Signs of Rapidly Progressive Arthritic Changes in Dogs and Cats Receiving Bedinvetmab and Frunevetmab(書誌情報、Veterinary and Comparative Orthopaedics and Traumatology, 2026, pp.157-161)の書誌情報ページ - OUCI](https://ouci.dntb.gov.ua/en/works/loNrKOz1/)
+- 要検証:上記論文(Von Pfeil et al., 2026)の原文・抄録への直接アクセス、英国VMDとEU/CVMPの対応の正確な前後関係・相互関係、提訴・署名活動の具体的な件数はいずれも今回、二次情報(英国政府FOI公開ページ・業界メディア)止まりで、原文での確認ができていない。継続して追うべきテーマ。
+- →記事ネタ:今回は書かず、「安全性シグナルは今も更新され続けている」という既出テーマの最新状況として、本ノート既出の抗NGF抗体関連の追記(2026-07-26・2026-08-30・2026-09-27・2026-09-13)とまとめて、年末〜来年にかけて一度総括記事にする際の材料としてストックしておく。
+
+### 3. 猫の早期CKD(IRISステージ1・2)、腎臓用療法食を継続した猫は進行が遅く・死亡リスクも低いという大規模リアルワールドデータ(IDEXX、JAVMA 2026年3月)
+
+- 本ノート冒頭「猫の慢性腎臓病(CKD)/IRISステージング」章で紹介した「療法食の要否・種類は個体差が大きい」という一般論に関連して、**まだ症状が出ていない早期(IRISステージ1・2)の段階から腎臓用療法食を継続していた猫は、進行が遅く、死亡リスクも低かった**とする大規模な観察研究が、**2026年3月にJournal of the American Veterinary Medical Association(JAVMA)誌に掲載された**ことが確認できたので追記する(IDEXX Laboratories社に所属する研究者らによる発表、との紹介)。
+- **研究の概要(業界メディアの紹介ベース)**:米国・カナダの動物病院の診療記録を使ったレトロスペクティブ(後ろ向き)研究で、**IRISステージ1・2のCKDと診断された猫1,430頭**を対象に、診断後も腎臓用療法食を継続して与えられていた猫(839頭)と、与えられていなかった猫(591頭)を比較。交絡因子を調整する統計手法(targeted maximum likelihood estimationという手法、との紹介)を用いて分析したという。
+- **主な報告内容**:
+  - 療法食を継続していたステージ1の猫は、より進行したステージへの移行リスクが**約45%低かった**と報告されている。ステージ移行までの期間(中央値)は、療法食群で約20か月、非継続群で約9か月という紹介もある。
+  - 診断後3年間の**全死因死亡リスクが約30%低かった**とも報告されている。
+  - 一方で、CKDと診断された猫全体のうち、**継続して腎臓用療法食を与えられていたのはわずか約33%**にとどまっていた、という紹介もあり、「診断されても療法食に実際に切り替えられていないケースが多い」という臨床上の課題も浮かび上がっている。
+- **読み方の注意**:**ランダム化比較試験ではなく観察研究(レトロスペクティブ)であり、「療法食を続けられる猫は他の面でも健康管理が行き届いている」といった背景因子の影響を完全には排除できない**。また、研究を発表した企業(IDEXX)は腎臓病の早期診断に使われる血液検査(SDMA)を販売しており、早期診断・早期介入の重要性を示す研究が広告的な効果を持つ可能性があることは、紹介記事でも留意点として触れられている。本ノート既出(冒頭章)のIRISガイドラインでは、療法食の開始は基本的にステージ2から、ステージ1では高FGF23など特定の場合に限る、という考え方が紹介されており、**今回の研究は「ステージ1からの開始にもメリットがあるのではないか」という、現行ガイドラインに一歩先んじた提案を含む**点も中立的に紹介する必要がある。
+- **記事化する際の注意**:**「なるべく早く療法食に切り替えたほうが良いかもしれない」という方向性のデータではあるが、個々の猫に療法食をいつから始めるべきかは、嗜好性・他の疾患の有無なども含めて獣医師が判断すべき事項であり、本ノートでは断定的な推奨は避ける**。「定期的な健診で早期にCKDを見つけることの意味」を伝える記事の材料としては使いやすい。JAVMA原著論文そのものへの直接アクセスは今回できておらず、著者名・統計手法の詳細は二次情報(業界メディア)止まり(要検証)。
+- 出典:
+  - [Early diagnosis, diet interventions improve outcomes for cats with CKD, study shows - Veterinary Practice News](https://www.veterinarypracticenews.com/?p=57046)
+  - [New study finds renal diet slows CKD progression in cats - Veterinary Practice News Canada](https://www.veterinarypracticenews.ca/?p=48324)
+  - [Five Months. That is what a renal diet is worth in a CKD cat according to new research from IDEXX - myvetcandy(2026年3月15日)](https://www.myvetcandy.com/news/2026/3/15/five-months-that-is-what-a-renal-diet-is-worth-in-a-ckd-cat-according-to-new-research-from-idexx)
+  - [A new study out of JAVMA just gave you the data to justify prescribing renal diets in Stage 1 CKD cats - myvetcandy](https://www.myvetcandy.com/news/2026/3/15/a-new-study-out-of-javma-just-gave-you-the-data-to-justify-prescribing-renal-diets-in-stage-1-ckd-cats)
+- 要検証:JAVMA原著論文(正式な論文タイトル・著者名・DOI・統計的詳細・利益相反の開示内容)への直接アクセスは今回未達。すべて業界メディア(Veterinary Practice News、myvetcandy)の紹介記事をベースにした整理であり、原文での数値確認が望ましい。
+- →記事ネタ:「シニア猫の健診、"まだ症状がないうち"のCKD早期発見にこんな意味があるかもしれない」という、本ノート既出のIRISステージング・家庭での気づきのサインの章と組み合わせられる定点観測記事。断定的な療法食の推奨にならないよう、「早期発見→かかりつけ医との相談」という流れを必ず添える。
