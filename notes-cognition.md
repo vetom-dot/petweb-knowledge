@@ -414,3 +414,44 @@
 - 出典:
   - [Enhancing cognitive functions in aged dogs and cats: a systematic review of enriched diets and nutraceuticals - GeroScience (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12181554/)
 - 要検証:本文全文(各成分のエビデンスレベルの詳細な評価基準、猫の2試験の内容)は今回未精査。二次情報・抄録ベースの整理にとどまる。
+
+---
+
+## 2026-11-08 追記:老齢犬の死後脳組織でのアルツハイマー病様病理の検証研究(npj Dementia)、猫の脳の加齢を人間と対応づけた「Translating Time」研究
+
+### 1. 老齢犬24頭の死後脳組織を、ヒトのアルツハイマー病診断フレームワークで評価した病理研究(npj Dementia, 2026年)
+
+- 新しい学術誌「npj Dementia」(Nature Portfolio系)に、**飼い犬(client-owned)の老齢犬24頭の死後脳組織**を対象にした病理研究が掲載された(Vol.2, Article 88, 2026年、doi: 10.1038/s44400-026-00141-4)。本ノート既出(2026-07-12・07-26・09-06追記)で紹介してきた、犬をアルツハイマー病(AD)の自然発症モデルとして捉える一連の研究の流れに位置づけられる。英語の正確な論文タイトルは、今回は中国語の紹介記事経由でしか確認できておらず要検証(中国語記事からの重訳では「犬の脳のアルツハイマー病様神経病理学的特徴と血液バイオマーカー・認知機能との関係」といった趣旨)。
+- 方法:ヒトのアルツハイマー病の病理診断に使われる**Thal分類・Braak分類・CERAD基準**を犬の脳組織に適用し、アミロイドβ・リン酸化タウ(pTau181)・神経炎性斑(neuritic plaque)の有無や分布を評価。生前の**CCDR(Canine Cognitive Dysfunction Rating)スコア**や血漿バイオマーカー(GFAP等)とも対比している。
+- 主な報告:
+  - **認知機能低下が重い犬ほど、脳内のアミロイドβ蓄積量が多い**という関連が確認された。
+  - 脳の各部位でのアミロイドβ蓄積量を最も強く予測する因子は**年齢**だった。
+  - アミロイドβの沈着パターンは、ヒトの**早期アルツハイマー病に近い(Thal分類の初期段階に相当する)**ものだったが、**リン酸化タウの病理は一部の脳領域に限られ、神経炎性斑(ヒトのADに特徴的な病変)は確認されなかった**という。
+  - 血漿中のGFAP(グリア線維性酸性タンパク、本ノート既出のグリア細胞関連マーカー)が、脳内のアミロイドβ蓄積量と関連していたとの報告もある。
+- 著者らは、こうした所見から**老齢犬が「早期アルツハイマー病様」の病理を自然に発症しうる**と結論づけ、犬を診断法・治療法開発の橋渡し研究に使える自然発症モデルとして位置づけている。本ノート既出のアミロイドβ・グリア細胞(2026-07-12・09-06追記)・血漿メタボロミクス(2026-07-26追記)の知見と並び、「ヒトのADの標準的な病理診断フレームワークを犬の脳に直接当てはめた」点が新しい。
+- **注意**:あくまで病理・基礎研究レベルの知見であり、診断法・治療法に直結するものではない。神経炎性斑が確認されなかった点は、犬の脳の変化が「ヒトのADと完全に同じではない(早期・部分的な類似)」ことを示すものとして慎重に扱うべき。
+- →記事ネタ:単独記事にはせず、他のCCD記事の「研究はどこまで進んでいるか」という将来展望パートに、「犬の脳を調べることが人間のアルツハイマー病研究にも役立っている」という一段落として添える使い方が適切。「犬にアルツハイマー病の薬ができた」といった誤解を招く書き方は厳禁。
+- 出典:
+  - [npj Dementia, Vol.2, Article 88 (2026), doi: 10.1038/s44400-026-00141-4](https://doi.org/10.1038/s44400-026-00141-4)
+  - [Old dogs might be able to teach Alzheimer's researchers new tricks - Nautil.us](https://nautil.us/why-old-dogs-might-be-able-to-teach-alzheimers-researchers-new-tricks-1285678/)
+  - [Old dogs teach Alzheimer's researchers new tricks - Jamaica Observer (2026年10月11日)](https://www.jamaicaobserver.com/2026/10/11/old-dogs-teach-alzheimers-researchers-new-tricks/)
+  - [中国語紹介記事 - ebiotrade.com(2026年10月7日)](https://www.ebiotrade.com/newsf/2026-10/202610070053599422.htm)
+- 要検証:論文本文・著者名・所属機関は今回確認できず、報道・二次紹介記事ベースの整理にとどまる。npj Dementia側の掲載号表示が「12/2026」となっている一方、報道は2026年10月時点で「既に掲載された」と紹介しており、正確な掲載日に食い違いがある。日本語でこの研究を紹介した記事は今回確認できなかった(未確認)。
+
+### 2. 猫の脳の加齢パターンをヒトと対応づけた「Translating Time」研究(Biology Open, 2026年6月)
+
+- 英バース大学・米オーバーン大学・フランスのトゥールーズ国立獣医学校の共同研究グループ(Capucine Januel、Christine J. Charvetらを含む)による論文が、学術誌**Biology Open**に発表された(タイトル:「Cat brains age like humans: translating time shows pet cats live to be natural models for human aging」、Vol.15, Issue 6, Article bio062604、doi: 10.1242/bio.062604、2026年6月発表)。異なる哺乳類種間で発達・加齢のタイミングを対応づける「Translating Time」プロジェクトの一環。
+- 方法:飼い猫および施設で飼育されている猫(colony cats)の構造MRI画像(7T・3T)を中心に、脳画像・血液検査値・神経病理所見・行動的なマイルストーンなど、ヒトを含む複数の哺乳類種にまたがる**約3,754件のデータ**を統合的に解析。
+- 主な報告:
+  - 猫の脳は、加齢に伴って**全体的な萎縮や脳室(髄液腔)の拡大**といった、ヒトの加齢でみられるのとよく似た構造変化のパターンを示したという。
+  - 年齢の対応関係は、昔からよく言われる「猫の1年はヒトの4年(または7年)」といった一律の換算ではなく、**ライフステージによって老化の進み方(加速・減速)が変わる非線形のモデル**で捉えられると報告されている。
+  - 具体的な対応の例として、**15歳前後の猫がヒトの80歳前後に相当する**という報告がある(報道によっては「16歳の猫がヒトの88歳に相当する脳変化」という紹介もあり、具体的な年齢換算の数字には報道間で幅がある。単純な換算表としては扱わない方が安全)。対応のあてはまりは**高齢期ほど精度が高かった**という。
+  - 著者らは、施設で飼育される猫(colony cats)は高齢期まで追跡された例が少なく、ペット猫との直接比較には限界があると述べている。
+- 位置づけ:本ノート3章(猫の認知機能低下、犬との違い)で紹介している「猫は6〜7歳ごろから神経細胞機能の変化、臨床徴候は10〜11歳ごろから顕在化する」という既存の記述に、**脳の構造的な老化パターンという新しい観点からのデータ**を加えるもの。この研究自体は行動・認知機能そのものを測定したものではなく、**MRIで見える脳の構造変化を異種間で対応づけた基礎研究**である点に注意。猫の認知機能不全(FCD)やアルツハイマー病への直接の応用は、今後の研究課題として言及される程度にとどまる(要検証)。
+- →記事ネタ:「うちの猫は人間で言うと何歳?」という読者の関心が高い話題に、「老化の進み方は一定ではなく、歳を重ねるほど人間との対応がはっきりしてくるらしい」という誠実な切り口で答えられる。ただし「○歳の猫は人間の○歳」という断定的な換算表の提示は避け、「あくまで脳の構造変化に基づく研究で、個体差が大きい」という前提を必ず添えること。本ノート3章の年齢の目安(有病率・徴候の出始める年齢)と並べて紹介すると読者にわかりやすい。
+- 出典:
+  - [Januel et al., "Cat brains age like humans: translating time shows pet cats live to be natural models for human aging", Biology Open 15(6): bio062604 (2026)](https://doi.org/10.1242/bio.062604)
+  - [Cats age like humans—could studying their brains reveal healthy ageing secrets? - University of Bath(2026年6月)](https://www.bath.ac.uk/announcements/cats-age-like-humans-could-studying-their-brains-reveal-healthy-ageing-secrets/)
+  - [What our feline companions can teach us about growing older - Auburn University College of Veterinary Medicine](https://www.vetmed.auburn.edu/blog/cvm-news/what-our-feline-companions-can-teach-us-about-growing-older/)
+  - [Domestic Cats Age Like Humans, New Study Shows - Sci.News](https://www.sci.news/biology/domestic-cat-aging-14866.html)
+- 要検証:データ件数(3,754件)や年齢換算の具体的な数字は報道間で表記に幅があり、論文本文での確認が望ましい。日本語でこの研究を紹介した記事は今回確認できなかった(未確認)。
